@@ -1,0 +1,62 @@
+[
+    {
+        "task": "Your friend is nervous about a school presentation. How do you help them?",
+        "type": "open_ended"
+    },
+    {
+        "task": "Your group project is behind schedule. How do you talk to your team?",
+        "type": "open_ended"
+    },
+    {
+        "task": "A classmate doesn’t understand the homework. How do you explain it?",
+        "type": "open_ended"
+    },
+    {
+        "task": "You’re in charge of a class game. How do you get everyone excited?",
+        "type": "open_ended"
+    },
+    {
+        "task": "Your teacher asks you to help a new student feel welcome. What do you do?",
+        "type": "open_ended"
+    },
+    {
+        "task": "You’re a librarian helping someone find a book. What do you say?",
+        "type": "open_ended"
+    },
+    {
+        "task": "You’re a park ranger talking to kids about animals. What do you tell them?",
+        "type": "open_ended"
+    },
+    {
+        "task": "You’re a chef teaching someone to cook. How do you explain a recipe?",
+        "type": "open_ended"
+    },
+    {
+        "task": "You’re a firefighter showing kids how to stay safe. What do you say?",
+        "type": "open_ended"
+    },
+    {
+        "task": "You’re a scientist explaining an experiment to your class. How do you do it?",
+        "type": "open_ended"
+    },
+    {
+        "task": "You notice a classmate is upset after a game. How do you cheer them up?",
+        "type": "open_ended"
+    },
+    {
+        "task": "You’re a bus driver calming a nervous passenger. What do you say?",
+        "type": "open_ended"
+    },
+    {
+        "task": "You’re a graphic designer showing a drawing to a friend. How do you explain it?",
+        "type": "open_ended"
+    },
+    {
+        "task": "You’re a police officer helping a lost child. What do you do?",
+        "type": "open_ended"
+    },
+    {
+        "task": "You’re a teacher planning a fun class activity. How do you get students involved?",
+        "type": "open_ended"
+    }
+]

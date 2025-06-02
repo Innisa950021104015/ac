@@ -1,0 +1,32 @@
+[
+    {
+        "q": "If a car travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+        "o": ["20", "30", "40", "60"],
+        "a": "30"
+    },
+    {
+        "q": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+        "o": ["24", "32", "28", "30"],
+        "a": "32"
+    },
+    {
+        "q": "If 5 workers can build a wall in 10 days, how many days will 10 workers take?",
+        "o": ["5", "8", "10", "12"],
+        "a": "5"
+    },
+    {
+        "q": "What is 15% of 200?",
+        "o": ["20", "25", "30", "35"],
+        "a": "30"
+    },
+    {
+        "q": "If x + 3 = 7, what is the value of x?",
+        "o": ["2", "3", "4", "5"],
+        "a": "4"
+    },
+    {
+        "q": "A train leaves at 8:00 AM and arrives at 10:30 AM. How long is the journey?",
+        "o": ["2 hours", "2.5 hours", "3 hours", "3.5 hours"],
+        "a": "2.5 hours"
+    }
+]

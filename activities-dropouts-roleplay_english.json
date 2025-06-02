@@ -1,0 +1,37 @@
+[
+    {
+        "task": "Pitch a new product idea to stakeholders",
+        "type": "scenario",
+        "scenario": "You need to present a new product idea to a group of stakeholders. How do you ensure your pitch is convincing?",
+        "hint": "Focus on clarity, benefits, and supporting data.",
+        "hintKeywords": ["clarity", "benefits", "data", "persuasion"]
+    },
+    {
+        "task": "Resolve a workplace misunderstanding",
+        "type": "scenario",
+        "scenario": "Two colleagues have misunderstood each other’s intentions, leading to tension. How do you help them resolve it?",
+        "hint": "Consider active listening, empathy, and clear communication.",
+        "hintKeywords": ["listen", "empathy", "clarify", "resolve"]
+    },
+    {
+        "task": "Address a customer’s technical issue",
+        "type": "scenario",
+        "scenario": "A customer reports a technical issue with your product and is frustrated. How do you handle the situation?",
+        "hint": "Think about troubleshooting, empathy, and offering solutions.",
+        "hintKeywords": ["troubleshoot", "empathy", "solution", "calm"]
+    },
+    {
+        "task": "Propose a workplace policy change",
+        "type": "scenario",
+        "scenario": "You believe a workplace policy needs updating to improve efficiency. How do you propose this to your supervisor?",
+        "hint": "Focus on rationale, benefits, and practical implementation.",
+        "hintKeywords": ["rationale", "benefits", "implementation", "propose"]
+    },
+    {
+        "task": "Support a new team member’s onboarding",
+        "type": "scenario",
+        "scenario": "A new team member is struggling to adapt to their role. How do you help them integrate and succeed?",
+        "hint": "Consider guidance, resources, and building confidence.",
+        "hintKeywords": ["guide", "resources", "confidence", "support"]
+    }
+]

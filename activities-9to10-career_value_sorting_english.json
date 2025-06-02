@@ -1,0 +1,122 @@
+[
+    {
+        "task": "Sort workplace preferences for a software developer",
+        "type": "drag_drop",
+        "items": ["Flexible Hours", "Access to Tools", "Quiet Workspace", "Career Growth"],
+        "zones": ["Most Preferred", "Preferred", "Neutral", "Least Preferred"],
+        "itemWeights": {
+            "Flexible Hours": 2.5,
+            "Access to Tools": 2.5,
+            "Quiet Workspace": 2.5,
+            "Career Growth": 2.5
+        }
+    },
+    {
+        "task": "Sort workplace preferences for a graphic designer",
+        "type": "drag_drop",
+        "items": ["Creative Control", "Team Feedback", "Modern Equipment", "Work-Life Balance"],
+        "zones": ["Most Preferred", "Preferred", "Neutral", "Least Preferred"],
+        "itemWeights": {
+            "Creative Control": 2.5,
+            "Team Feedback": 2.5,
+            "Modern Equipment": 2.5,
+            "Work-Life Balance": 2.5
+        }
+    },
+    {
+        "task": "Sort workplace preferences for a teacher",
+        "type": "drag_drop",
+        "items": ["Supportive Leadership", "Student Engagement", "Resource Availability", "Professional Development"],
+        "zones": ["Most Preferred", "Preferred", "Neutral", "Least Preferred"],
+        "itemWeights": {
+            "Supportive Leadership": 2.5,
+            "Student Engagement": 2.5,
+            "Resource Availability": 2.5,
+            "Professional Development": 2.5
+        }
+    },
+    {
+        "task": "Sort workplace preferences for a nurse",
+        "type": "drag_drop",
+        "items": ["Patient Interaction", "Shift Flexibility", "Team Support", "Safe Environment"],
+        "zones": ["Most Preferred", "Preferred", "Neutral", "Least Preferred"],
+        "itemWeights": {
+            "Patient Interaction": 2.5,
+            "Shift Flexibility": 2.5,
+            "Team Support": 2.5,
+            "Safe Environment": 2.5
+        }
+    },
+    {
+        "task": "Sort workplace preferences for a marketing manager",
+        "type": "drag_drop",
+        "items": ["Data Access", "Creative Campaigns", "Client Interaction", "Budget Control"],
+        "zones": ["Most Preferred", "Preferred", "Neutral", "Least Preferred"],
+        "itemWeights": {
+            "Data Access": 2.5,
+            "Creative Campaigns": 2.5,
+            "Client Interaction": 2.5,
+            "Budget Control": 2.5
+        }
+    },
+    {
+        "task": "Sort workplace preferences for a civil engineer",
+        "type": "drag_drop",
+        "items": ["Project Autonomy", "Safety Standards", "Team Coordination", "Innovative Tools"],
+        "zones": ["Most Preferred", "Preferred", "Neutral", "Least Preferred"],
+        "itemWeights": {
+            "Project Autonomy": 2.5,
+            "Safety Standards": 2.5,
+            "Team Coordination": 2.5,
+            "Innovative Tools": 2.5
+        }
+    },
+    {
+        "task": "Sort workplace preferences for a chef",
+        "type": "drag_drop",
+        "items": ["Kitchen Space", "Ingredient Quality", "Creative Menu Design", "Team Dynamics"],
+        "zones": ["Most Preferred", "Preferred", "Neutral", "Least Preferred"],
+        "itemWeights": {
+            "Kitchen Space": 2.5,
+            "Ingredient Quality": 2.5,
+            "Creative Menu Design": 2.5,
+            "Team Dynamics": 2.5
+        }
+    },
+    {
+        "task": "Sort workplace preferences for a cybersecurity specialist",
+        "type": "drag_drop",
+        "items": ["Advanced Tools", "Continuous Learning", "Incident Response", "Data Privacy"],
+        "zones": ["Most Preferred", "Preferred", "Neutral", "Least Preferred"],
+        "itemWeights": {
+            "Advanced Tools": 2.5,
+            "Continuous Learning": 2.5,
+            "Incident Response": 2.5,
+            "Data Privacy": 2.5
+        }
+    },
+    {
+        "task": "Sort workplace preferences for a financial advisor",
+        "type": "drag_drop",
+        "items": ["Client Trust", "Market Insights", "Regulatory Compliance", "Flexible Schedule"],
+        "zones": ["Most Preferred", "Preferred", "Neutral", "Least Preferred"],
+        "itemWeights": {
+            "Client Trust": 2.5,
+            "Market Insights": 2.5,
+            "Regulatory Compliance": 2.5,
+            "Flexible Schedule": 2.5
+        }
+    },
+    {
+        "task": "Sort workplace preferences for a journalist",
+        "type": "drag_drop",
+        "items": ["Source Access", "Editorial Freedom", "Deadline Flexibility", "Travel Opportunities"],
+        "zones": ["Most Preferred", "Preferred", "Neutral", "Least Preferred"],
+        "itemWeights": {
+            "Source Access": 2.5,
+            "Editorial Freedom": 2.5,
+            "Deadline Flexibility": 2.5,
+            "Travel Opportunities": 2.5
+        }
+    }
+]

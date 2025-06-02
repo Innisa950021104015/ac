@@ -1,0 +1,322 @@
+[
+    {
+        "task": "Match the career to its daily task",
+        "type": "drag_drop",
+        "items": [
+            "Taking care of animals",
+            "Preparing meals",
+            "Teaching lessons",
+            "Fixing computers",
+            "Drawing illustrations"
+        ],
+        "zones": [
+            "Veterinarian",
+            "Chef",
+            "Teacher",
+            "IT Technician",
+            "Illustrator"
+        ],
+        "correctAnswers": {
+            "Veterinarian": "Taking care of animals",
+            "Chef": "Preparing meals",
+            "Teacher": "Teaching lessons",
+            "IT Technician": "Fixing computers",
+            "Illustrator": "Drawing illustrations"
+        },
+        "itemWeights": {
+            "Taking care of animals": 2,
+            "Preparing meals": 2,
+            "Teaching lessons": 2,
+            "Fixing computers": 2,
+            "Drawing illustrations": 2
+        }
+    },
+    {
+        "task": "Match the career to its daily task",
+        "type": "drag_drop",
+        "items": [
+            "Writing news articles",
+            "Building furniture",
+            "Helping patients recover",
+            "Creating video games",
+            "Planning events"
+        ],
+        "zones": [
+            "Journalist",
+            "Carpenter",
+            "Physical Therapist",
+            "Game Developer",
+            "Event Planner"
+        ],
+        "correctAnswers": {
+            "Journalist": "Writing news articles",
+            "Carpenter": "Building furniture",
+            "Physical Therapist": "Helping patients recover",
+            "Game Developer": "Creating video games",
+            "Event Planner": "Planning events"
+        },
+        "itemWeights": {
+            "Writing news articles": 2,
+            "Building furniture": 2,
+            "Helping patients recover": 2,
+            "Creating video games": 2,
+            "Planning events": 2
+        }
+    },
+    {
+        "task": "Match the career to its daily task",
+        "type": "drag_drop",
+        "items": [
+            "Growing crops",
+            "Performing on stage",
+            "Designing websites",
+            "Fighting fires",
+            "Analyzing data"
+        ],
+        "zones": [
+            "Farmer",
+            "Actor",
+            "Web Designer",
+            "Firefighter",
+            "Data Analyst"
+        ],
+        "correctAnswers": {
+            "Farmer": "Growing crops",
+            "Actor": "Performing on stage",
+            "Web Designer": "Designing websites",
+            "Firefighter": "Fighting fires",
+            "Data Analyst": "Analyzing data"
+        },
+        "itemWeights": {
+            "Growing crops": 2,
+            "Performing on stage": 2,
+            "Designing websites": 2,
+            "Fighting fires": 2,
+            "Analyzing data": 2
+        }
+    },
+    {
+        "task": "Match the career to its daily task",
+        "type": "drag_drop",
+        "items": [
+            "Driving delivery trucks",
+            "Creating fashion designs",
+            "Conducting experiments",
+            "Managing store inventory",
+            "Helping with legal cases"
+        ],
+        "zones": [
+            "Delivery Driver",
+            "Fashion Designer",
+            "Scientist",
+            "Store Manager",
+            "Lawyer"
+        ],
+        "correctAnswers": {
+            "Delivery Driver": "Driving delivery trucks",
+            "Fashion Designer": "Creating fashion designs",
+            "Scientist": "Conducting experiments",
+            "Store Manager": "Managing store inventory",
+            "Lawyer": "Helping with legal cases"
+        },
+        "itemWeights": {
+            "Driving delivery trucks": 2,
+            "Creating fashion designs": 2,
+            "Conducting experiments": 2,
+            "Managing store inventory": 2,
+            "Helping with legal cases": 2
+        }
+    },
+    {
+        "task": "Match the career to its daily task",
+        "type": "drag_drop",
+        "items": [
+            "Maintaining gardens",
+            "Filming videos",
+            "Counseling students",
+            "Repairing cars",
+            "Writing books"
+        ],
+        "zones": [
+            "Gardener",
+            "Videographer",
+            "School Counselor",
+            "Mechanic",
+            "Author"
+        ],
+        "correctAnswers": {
+            "Gardener": "Maintaining gardens",
+            "Videographer": "Filming videos",
+            "School Counselor": "Counseling students",
+            "Mechanic": "Repairing cars",
+            "Author": "Writing books"
+        },
+        "itemWeights": {
+            "Maintaining gardens": 2,
+            "Filming videos": 2,
+            "Counseling students": 2,
+            "Repairing cars": 2,
+            "Writing books": 2
+        }
+    },
+    {
+        "task": "Match the career to its daily task",
+        "type": "drag_drop",
+        "items": [
+            "Serving food",
+            "Monitoring wildlife",
+            "Planning city layouts",
+            "Taking photographs",
+            "Leading tours"
+        ],
+        "zones": [
+            "Waiter",
+            "Wildlife Biologist",
+            "Urban Planner",
+            "Photographer",
+            "Tour Guide"
+        ],
+        "correctAnswers": {
+            "Waiter": "Serving food",
+            "Wildlife Biologist": "Monitoring wildlife",
+            "Urban Planner": "Planning city layouts",
+            "Photographer": "Taking photographs",
+            "Tour Guide": "Leading tours"
+        },
+        "itemWeights": {
+            "Serving food": 2,
+            "Monitoring wildlife": 2,
+            "Planning city layouts": 2,
+            "Taking photographs": 2,
+            "Leading tours": 2
+        }
+    },
+    {
+        "task": "Match the career to its daily task",
+        "type": "drag_drop",
+        "items": [
+            "Installing electrical wiring",
+            "Creating music",
+            "Helping with taxes",
+            "Flying planes",
+            "Caring for children"
+        ],
+        "zones": [
+            "Electrician",
+            "Musician",
+            "Accountant",
+            "Pilot",
+            "Childcare Worker"
+        ],
+        "correctAnswers": {
+            "Electrician": "Installing electrical wiring",
+            "Musician": "Creating music",
+            "Accountant": "Helping with taxes",
+            "Pilot": "Flying planes",
+            "Childcare Worker": "Caring for children"
+        },
+        "itemWeights": {
+            "Installing electrical wiring": 2,
+            "Creating music": 2,
+            "Helping with taxes": 2,
+            "Flying planes": 2,
+            "Caring for children": 2
+        }
+    },
+    {
+        "task": "Match the career to its daily task",
+        "type": "drag_drop",
+        "items": [
+            "Building websites",
+            "Caring for elderly",
+            "Making jewelry",
+            "Inspecting buildings",
+            "Editing videos"
+        ],
+        "zones": [
+            "Web Developer",
+            "Caregiver",
+            "Jeweler",
+            "Building Inspector",
+            "Video Editor"
+        ],
+        "correctAnswers": {
+            "Web Developer": "Building websites",
+            "Caregiver": "Caring for elderly",
+            "Jeweler": "Making jewelry",
+            "Building Inspector": "Inspecting buildings",
+            "Video Editor": "Editing videos"
+        },
+        "itemWeights": {
+            "Building websites": 2,
+            "Caring for elderly": 2,
+            "Making jewelry": 2,
+            "Inspecting buildings": 2,
+            "Editing videos": 2
+        }
+    },
+    {
+        "task": "Match the career to its daily task",
+        "type": "drag_drop",
+        "items": [
+            "Cleaning homes",
+            "Testing software",
+            "Organizing events",
+            "Guiding hikers",
+            "Painting houses"
+        ],
+        "zones": [
+            "Housekeeper",
+            "Software Tester",
+            "Event Coordinator",
+            "Hiking Guide",
+            "Painter"
+        ],
+        "correctAnswers": {
+            "Housekeeper": "Cleaning homes",
+            "Software Tester": "Testing software",
+            "Event Coordinator": "Organizing events",
+            "Hiking Guide": "Guiding hikers",
+            "Painter": "Painting houses"
+        },
+        "itemWeights": {
+            "Cleaning homes": 2,
+            "Testing software": 2,
+            "Organizing events": 2,
+            "Guiding hikers": 2,
+            "Painting houses": 2
+        }
+    },
+    {
+        "task": "Match the career to its daily task",
+        "type": "drag_drop",
+        "items": [
+            "Sewing clothes",
+            "Tracking weather",
+            "Managing projects",
+            "Helping with injuries",
+            "Selling products"
+        ],
+        "zones": [
+            "Tailor",
+            "Meteorologist",
+            "Project Manager",
+            "Paramedic",
+            "Salesperson"
+        ],
+        "correctAnswers": {
+            "Tailor": "Sewing clothes",
+            "Meteorologist": "Tracking weather",
+            "Project Manager": "Managing projects",
+            "Paramedic": "Helping with injuries",
+            "Salesperson": "Selling products"
+        },
+        "itemWeights": {
+            "Sewing clothes": 2,
+            "Tracking weather": 2,
+            "Managing projects": 2,
+            "Helping with injuries": 2,
+            "Selling products": 2
+        }
+    }
+]

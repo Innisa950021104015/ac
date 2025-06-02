@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>செயல்பாடு மதிப்பீடு: 6 முதல் 8 ஆம் வகுப்பு</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">வாழ்க்கைப் பாதை</div>
+        <ul class="nav-links">
+            <li><a href="index.html">முகப்பு</a></li>
+            <li><a href="login.html">உள்நுழைவு</a></li>
+            <li><a href="about.html">பற்றி</a></li>
+            <li><a href="dashboard.html">கட்டுப்பாட்டு பலகை</a></li>
+        </ul>
+    </nav>
+
+    <div class="hero-section">
+        <h1>செயல்பாடு மதிப்பீடு</h1>
+        <div id="instructions" class="instructions">
+            <h2>வழிமுறைகள்</h2>
+            <p>செயல்பாடு மதிப்பீட்டிற்கு வரவேற்கிறோம்! ஒவ்வொரு பிரிவிலும் (புதிர், பிரச்சனை, காட்சி, பாத்திர நடிப்பு) 15 கேள்விகளுக்கு 10 நிமிடங்களில் பதிலளிக்கவும். சிறந்த விருப்பத்தைத் தேர்ந்தெடுக்கவும். "தொடங்கு" பொத்தானை அழுத்தவும்.</p>
+            <button id="startBtn" class="btn">தொடங்கு</button>
+        </div>
+        <p id="timer" class="timer hidden">மீதமுள்ள நேரம்: 10:00</p>
+        <div id="assessmentContent" class="assessment-content"></div>
+        <div id="categoryCompletion" class="category-completion hidden">
+            <p id="completionMessage"></p>
+            <button id="nextBtn" class="btn">அடுத்து</button>
+        </div>
+        <div id="finalCompletion" class="hidden">
+            <p>செயல்பாடு மதிப்பீடு முடிந்தது! உங்கள் தொழில் பரிந்துரைகளைப் பதிவிறக்கவும்.</p>
+            <button id="downloadBtn" class="btn">PDF பதிவிறக்கவும்</button>
+            <p id="pdfError" class="hidden" style="color: red;">PDF பதிவிறக்கம் தோல்வியடைந்தது. <a id="viewPdfLink" href="#" target="_blank">PDF பார்க்கவும்</a></p>
+        </div>
+        <div id="navError" class="hidden" style="color: red;">
+            <p>அடுத்த பிரிவை ஏற்ற முடியவில்லை. மீண்டும் முயற்சிக்கவும் அல்லது <a href="activity-assessment-6to8-tamil.html?category=puzzle">தொடக்கத்திற்கு</a> திரும்பவும்.</p>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+    <script src="assessment-6to8-tamil.js"></script>
+</body>
+</html>

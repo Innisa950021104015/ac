@@ -1,0 +1,62 @@
+[
+    {
+        "task": "Rank professional priorities by importance",
+        "type": "drag_drop",
+        "items": ["Career Advancement", "Workplace Diversity", "Job Flexibility", "Personal Fulfillment"],
+        "zones": ["Top Priority", "High Priority", "Medium Priority", "Low Priority"],
+        "itemWeights": {
+            "Career Advancement": 2.5,
+            "Workplace Diversity": 2.5,
+            "Job Flexibility": 2.5,
+            "Personal Fulfillment": 2.5
+        }
+    },
+    {
+        "task": "Sort job benefits by preference",
+        "type": "drag_drop",
+        "items": ["Retirement Plans", "Professional Development", "Work-from-Home Options", "Team Support"],
+        "zones": ["Most Valued", "Valued", "Neutral", "Least Valued"],
+        "itemWeights": {
+            "Retirement Plans": 2.5,
+            "Professional Development": 2.5,
+            "Work-from-Home Options": 2.5,
+            "Team Support": 2.5
+        }
+    },
+    {
+        "task": "Rank career motivators",
+        "type": "drag_drop",
+        "items": ["Innovation Opportunities", "Job Stability", "Personal Recognition", "Community Impact"],
+        "zones": ["Most Motivating", "Moderately Motivating", "Somewhat Motivating", "Least Motivating"],
+        "itemWeights": {
+            "Innovation Opportunities": 2.5,
+            "Job Stability": 2.5,
+            "Personal Recognition": 2.5,
+            "Community Impact": 2.5
+        }
+    },
+    {
+        "task": "Order long-term career goals",
+        "type": "drag_drop",
+        "items": ["Entrepreneurship", "Skill Mastery", "Financial Independence", "Global Influence"],
+        "zones": ["Top Goal", "High Goal", "Medium Goal", "Low Goal"],
+        "itemWeights": {
+            "Entrepreneurship": 2.5,
+            "Skill Mastery": 2.5,
+            "Financial Independence": 2.5,
+            "Global Influence": 2.5
+        }
+    },
+    {
+        "task": "Sort workplace environment preferences",
+        "type": "drag_drop",
+        "items": ["Dynamic Work Culture", "Independent Tasks", "Structured Schedule", "Learning Opportunities"],
+        "zones": ["Most Preferred", "Preferred", "Neutral", "Least Preferred"],
+        "itemWeights": {
+            "Dynamic Work Culture": 2.5,
+            "Independent Tasks": 2.5,
+            "Structured Schedule": 2.5,
+            "Learning Opportunities": 2.5
+        }
+    }
+]

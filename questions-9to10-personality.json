@@ -1,0 +1,127 @@
+[
+    {
+        "q": "Do you prefer working alone or with a team?",
+        "o": ["Alone", "Team", "Depends", "Neither"],
+        "a": "Team"
+    },
+    {
+        "q": "Are you more comfortable with planning or being spontaneous?",
+        "o": ["Planning", "Spontaneous", "Mix of both", "Neither"],
+        "a": "Planning"
+    },
+    {
+        "q": "Do you enjoy taking charge of projects?",
+        "o": ["Always", "Sometimes", "Rarely", "Never"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "How do you handle new challenges?",
+        "o": ["Avoid them", "Study them", "Jump in", "Ask for help"],
+        "a": "Study them"
+    },
+    {
+        "q": "Do you prefer routine tasks or varied tasks?",
+        "o": ["Routine", "Varied", "Mix of both", "Neither"],
+        "a": "Varied"
+    },
+    {
+        "q": "Are you motivated by competition?",
+        "o": ["Yes", "No", "Sometimes", "Not sure"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Do you enjoy public speaking?",
+        "o": ["Love it", "Okay with it", "Dislike it", "Avoid it"],
+        "a": "Okay with it"
+    },
+    {
+        "q": "How do you approach deadlines?",
+        "o": ["Early", "On time", "Last minute", "Miss them"],
+        "a": "Early"
+    },
+    {
+        "q": "Do you prefer detailed instructions or freedom to figure things out?",
+        "o": ["Instructions", "Freedom", "Mix of both", "Neither"],
+        "a": "Mix of both"
+    },
+    {
+        "q": "Are you comfortable making decisions quickly?",
+        "o": ["Yes", "No", "Sometimes", "Not sure"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Do you enjoy organizing events?",
+        "o": ["Always", "Sometimes", "Rarely", "Never"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "How do you react to unexpected changes?",
+        "o": ["Embrace them", "Adapt slowly", "Get stressed", "Ignore them"],
+        "a": "Adapt slowly"
+    },
+    {
+        "q": "Do you prefer working with data or people?",
+        "o": ["Data", "People", "Both", "Neither"],
+        "a": "Both"
+    },
+    {
+        "q": "Are you good at staying focused on long tasks?",
+        "o": ["Always", "Usually", "Sometimes", "Rarely"],
+        "a": "Usually"
+    },
+    {
+        "q": "Do you enjoy learning new skills?",
+        "o": ["Love it", "Like it", "Neutral", "Dislike it"],
+        "a": "Like it"
+    },
+    {
+        "q": "How do you feel about taking risks?",
+        "o": ["Excited", "Cautious", "Avoid them", "Depends"],
+        "a": "Cautious"
+    },
+    {
+        "q": "Do you prefer clear goals or open-ended tasks?",
+        "o": ["Clear goals", "Open-ended", "Mix of both", "Neither"],
+        "a": "Clear goals"
+    },
+    {
+        "q": "Are you comfortable giving feedback to others?",
+        "o": ["Yes", "No", "Sometimes", "Not sure"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Do you enjoy brainstorming ideas?",
+        "o": ["Always", "Sometimes", "Rarely", "Never"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "How do you handle repetitive tasks?",
+        "o": ["Enjoy them", "Tolerate them", "Dislike them", "Avoid them"],
+        "a": "Tolerate them"
+    },
+    {
+        "q": "Do you prefer working indoors or outdoors?",
+        "o": ["Indoors", "Outdoors", "Both", "Neither"],
+        "a": "Both"
+    },
+    {
+        "q": "Are you motivated by recognition?",
+        "o": ["Yes", "No", "Sometimes", "Not sure"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Do you enjoy solving problems creatively?",
+        "o": ["Always", "Sometimes", "Rarely", "Never"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "How do you approach learning from mistakes?",
+        "o": ["Embrace it", "Accept it", "Avoid it", "Ignore it"],
+        "a": "Accept it"
+    },
+    {
+        "q": "Do you prefer leading or following?",
+        "o": ["Leading", "Following", "Both", "Neither"],
+        "a": "Both"
+    }
+]

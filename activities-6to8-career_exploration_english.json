@@ -1,0 +1,208 @@
+[
+  {
+    "task": "Match the career to its daily task",
+    "type": "drag_drop",
+    "items": ["Tailor", "Meteorologist", "Project Manager", "Paramedic", "Salesperson"],
+    "zones": ["Sewing clothes", "Tracking weather", "Managing projects", "Helping with injuries", "Selling products"],
+    "correctAnswers": {
+      "Sewing clothes": "Tailor",
+      "Tracking weather": "Meteorologist",
+      "Managing projects": "Project Manager",
+      "Helping with injuries": "Paramedic",
+      "Selling products": "Salesperson"
+    },
+    "itemWeights": {
+      "Tailor": 2,
+      "Meteorologist": 2,
+      "Project Manager": 2,
+      "Paramedic": 2,
+      "Salesperson": 2
+    }
+  },
+  {
+    "task": "Match the career to what they use",
+    "type": "drag_drop",
+    "items": ["Scientist", "Artist", "Athlete", "Carpenter", "Doctor"],
+    "zones": ["Microscope", "Paintbrush", "Soccer ball", "Drill", "Stethoscope"],
+    "correctAnswers": {
+      "Microscope": "Scientist",
+      "Paintbrush": "Artist",
+      "Soccer ball": "Athlete",
+      "Drill": "Carpenter",
+      "Stethoscope": "Doctor"
+    },
+    "itemWeights": {
+      "Scientist": 2,
+      "Artist": 2,
+      "Athlete": 2,
+      "Carpenter": 2,
+      "Doctor": 2
+    }
+  },
+  {
+    "task": "Match the career to where they work",
+    "type": "drag_drop",
+    "items": ["Doctor", "Lawyer", "Teacher", "Engineer", "Firefighter"],
+    "zones": ["Hospital", "Courtroom", "Classroom", "Construction site", "Fire station"],
+    "correctAnswers": {
+      "Hospital": "Doctor",
+      "Courtroom": "Lawyer",
+      "Classroom": "Teacher",
+      "Construction site": "Engineer",
+      "Fire station": "Firefighter"
+    },
+    "itemWeights": {
+      "Doctor": 2,
+      "Lawyer": 2,
+      "Teacher": 2,
+      "Engineer": 2,
+      "Firefighter": 2
+    }
+  },
+  {
+    "task": "Match the career to what they help with",
+    "type": "drag_drop",
+    "items": ["Dentist", "Lawyer", "Teacher", "Journalist", "Veterinarian"],
+    "zones": ["Fixing teeth", "Defending people in court", "Teaching math", "Writing news", "Caring for animals"],
+    "correctAnswers": {
+      "Fixing teeth": "Dentist",
+      "Defending people in court": "Lawyer",
+      "Teaching math": "Teacher",
+      "Writing news": "Journalist",
+      "Caring for animals": "Veterinarian"
+    },
+    "itemWeights": {
+      "Dentist": 2,
+      "Lawyer": 2,
+      "Teacher": 2,
+      "Journalist": 2,
+      "Veterinarian": 2
+    }
+  },
+  {
+    "task": "Match the worker to what they might say",
+    "type": "drag_drop",
+    "items": ["Artist", "Doctor", "Delivery Driver", "Teacher", "Carpenter"],
+    "zones": [
+      "Let's paint this landscape!",
+      "Take a deep breath. I’ll check your lungs.",
+      "Your package will arrive tomorrow.",
+      "Please open your textbook to page 10.",
+      "I'm going to cut this wooden board now."
+    ],
+    "correctAnswers": {
+      "Let's paint this landscape!": "Artist",
+      "Take a deep breath. I’ll check your lungs.": "Doctor",
+      "Your package will arrive tomorrow.": "Delivery Driver",
+      "Please open your textbook to page 10.": "Teacher",
+      "I'm going to cut this wooden board now.": "Carpenter"
+    },
+    "itemWeights": {
+      "Artist": 2,
+      "Doctor": 2,
+      "Delivery Driver": 2,
+      "Teacher": 2,
+      "Carpenter": 2
+    }
+  },
+  {
+    "task": "Match the job to the thing they usually wear",
+    "type": "drag_drop",
+    "items": ["Chef", "Construction Worker", "Police Officer", "Scientist", "Judge"],
+    "zones": ["Apron", "Hard hat", "Uniform with badge", "Lab coat", "Robe and gavel"],
+    "correctAnswers": {
+      "Apron": "Chef",
+      "Hard hat": "Construction Worker",
+      "Uniform with badge": "Police Officer",
+      "Lab coat": "Scientist",
+      "Robe and gavel": "Judge"
+    },
+    "itemWeights": {
+      "Chef": 2,
+      "Construction Worker": 2,
+      "Police Officer": 2,
+      "Scientist": 2,
+      "Judge": 2
+    }
+  },
+  {
+    "task": "Match the career to what they build or create",
+    "type": "drag_drop",
+    "items": ["Engineer", "Architect", "Software Developer", "Chef", "Author"],
+    "zones": ["Bridges", "Building designs", "Apps", "Meals", "Books"],
+    "correctAnswers": {
+      "Bridges": "Engineer",
+      "Building designs": "Architect",
+      "Apps": "Software Developer",
+      "Meals": "Chef",
+      "Books": "Author"
+    },
+    "itemWeights": {
+      "Engineer": 2,
+      "Architect": 2,
+      "Software Developer": 2,
+      "Chef": 2,
+      "Author": 2
+    }
+  },
+  {
+    "task": "Match the career to the subject they use most",
+    "type": "drag_drop",
+    "items": ["Accountant", "Biologist", "Historian", "Computer Programmer", "Mechanic"],
+    "zones": ["Math", "Science", "History", "Coding", "Tools and machines"],
+    "correctAnswers": {
+      "Math": "Accountant",
+      "Science": "Biologist",
+      "History": "Historian",
+      "Coding": "Computer Programmer",
+      "Tools and machines": "Mechanic"
+    },
+    "itemWeights": {
+      "Accountant": 2,
+      "Biologist": 2,
+      "Historian": 2,
+      "Computer Programmer": 2,
+      "Mechanic": 2
+    }
+  },
+  {
+    "task": "Match the career to the people they help",
+    "type": "drag_drop",
+    "items": ["Nurse", "Teacher", "Social Worker", "Veterinarian", "Cashier"],
+    "zones": ["Patients", "Students", "Families", "Animals", "Shoppers"],
+    "correctAnswers": {
+      "Patients": "Nurse",
+      "Students": "Teacher",
+      "Families": "Social Worker",
+      "Animals": "Veterinarian",
+      "Shoppers": "Cashier"
+    },
+    "itemWeights": {
+      "Nurse": 2,
+      "Teacher": 2,
+      "Social Worker": 2,
+      "Veterinarian": 2,
+      "Cashier": 2
+    }
+  },
+  {
+    "task": "Match the career to the kind of problem they solve",
+    "type": "drag_drop",
+    "items": ["Engineer", "Doctor", "Detective", "IT Support", "Plumber"],
+    "zones": ["Mechanical issues", "Health problems", "Crimes", "Computer problems", "Leaky pipes"],
+    "correctAnswers": {
+      "Mechanical issues": "Engineer",
+      "Health problems": "Doctor",
+      "Crimes": "Detective",
+      "Computer problems": "IT Support",
+      "Leaky pipes": "Plumber"
+    },
+    "itemWeights": {
+      "Engineer": 2,
+      "Doctor": 2,
+      "Detective": 2,
+      "IT Support": 2,
+      "Plumber": 2
+    }
+  }
+]

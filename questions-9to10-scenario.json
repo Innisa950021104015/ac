@@ -1,0 +1,127 @@
+[
+    {
+        "q": "Your team missed a project deadline. What do you do?",
+        "o": ["Blame others", "Explain and plan", "Ignore it", "Quit"],
+        "a": "Explain and plan"
+    },
+    {
+        "q": "You’re leading a fundraiser with low turnout. What’s your next step?",
+        "o": ["Cancel it", "Promote more", "Do it alone", "Give up"],
+        "a": "Promote more"
+    },
+    {
+        "q": "A friend asks for homework help but you’re busy. What do you do?",
+        "o": ["Ignore them", "Help later", "Do it for them", "Say no"],
+        "a": "Help later"
+    },
+    {
+        "q": "Your group presentation is tomorrow, and no one prepared. What’s your move?",
+        "o": ["Cancel it", "Assign tasks", "Present alone", "Do nothing"],
+        "a": "Assign tasks"
+    },
+    {
+        "q": "You’re organizing a school event, and two clubs want the same time slot. What do you do?",
+        "o": ["Pick one", "Negotiate", "Cancel both", "Ignore it"],
+        "a": "Negotiate"
+    },
+    {
+        "q": "Your team is arguing over a project idea. How do you proceed?",
+        "o": ["Choose one", "Vote", "Start over", "Quit"],
+        "a": "Vote"
+    },
+    {
+        "q": "You’re short on supplies for a class project. What’s your solution?",
+        "o": ["Buy more", "Improvise", "Stop working", "Complain"],
+        "a": "Improvise"
+    },
+    {
+        "q": "A teammate isn’t participating. How do you handle it?",
+        "o": ["Do their work", "Talk to them", "Report them", "Ignore them"],
+        "a": "Talk to them"
+    },
+    {
+        "q": "You’re planning a trip, and the budget is tight. What do you cut?",
+        "o": ["Food", "Transport", "Activities", "Nothing"],
+        "a": "Activities"
+    },
+    {
+        "q": "Your club’s event is disorganized. What’s your first fix?",
+        "o": ["Make a schedule", "Cancel it", "Blame someone", "Do nothing"],
+        "a": "Make a schedule"
+    },
+    {
+        "q": "You’re tutoring a struggling student. What’s your approach?",
+        "o": ["Give answers", "Explain concepts", "Rush through", "Quit"],
+        "a": "Explain concepts"
+    },
+    {
+        "q": "Your team’s project is behind schedule. What do you do?",
+        "o": ["Work faster", "Adjust goals", "Give up", "Blame others"],
+        "a": "Adjust goals"
+    },
+    {
+        "q": "You’re managing a debate, and it’s getting heated. What’s your move?",
+        "o": ["Stop it", "Set rules", "Join in", "Ignore it"],
+        "a": "Set rules"
+    },
+    {
+        "q": "Your group’s poster is due, but the design is messy. What do you do?",
+        "o": ["Submit it", "Redesign it", "Blame someone", "Skip it"],
+        "a": "Redesign it"
+    },
+    {
+        "q": "You’re coordinating volunteers, and one cancels. What’s your plan?",
+        "o": ["Do their job", "Find another", "Cancel event", "Complain"],
+        "a": "Find another"
+    },
+    {
+        "q": "Your science fair project fails. What’s your next step?",
+        "o": ["Hide it", "Fix it", "Blame teammate", "Give up"],
+        "a": "Fix it"
+    },
+    {
+        "q": "You’re running a meeting, and no one’s listening. What do you do?",
+        "o": ["Yell", "Refocus them", "End it", "Join them"],
+        "a": "Refocus them"
+    },
+    {
+        "q": "Your team has two good ideas for a project. How do you choose?",
+        "o": ["Pick one", "Combine them", "Start both", "Do neither"],
+        "a": "Combine them"
+    },
+    {
+        "q": "You’re setting up a booth, and it’s too crowded. What’s your fix?",
+        "o": ["Rearrange it", "Close it", "Add more", "Ignore it"],
+        "a": "Rearrange it"
+    },
+    {
+        "q": "Your presentation partner is nervous. How do you help?",
+        "o": ["Practice with them", "Present alone", "Ignore them", "Cancel"],
+        "a": "Practice with them"
+    },
+    {
+        "q": "You’re planning a party, and the venue cancels. What do you do?",
+        "o": ["Find another", "Cancel party", "Blame someone", "Do nothing"],
+        "a": "Find another"
+    },
+    {
+        "q": "Your team’s budget is over. What do you cut?",
+        "o": ["Essentials", "Decorations", "Food", "Nothing"],
+        "a": "Decorations"
+    },
+    {
+        "q": "You’re leading a cleanup, and turnout is low. What’s your move?",
+        "o": ["Do it alone", "Recruit more", "Cancel it", "Complain"],
+        "a": "Recruit more"
+    },
+    {
+        "q": "Your group’s report has errors. What do you do?",
+        "o": ["Submit it", "Fix them", "Blame someone", "Start over"],
+        "a": "Fix them"
+    },
+    {
+        "q": "You’re organizing a game, and rules are unclear. What’s your fix?",
+        "o": ["Explain them", "Change game", "Play anyway", "Cancel"],
+        "a": "Explain them"
+    }
+]

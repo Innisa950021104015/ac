@@ -1,0 +1,127 @@
+[
+    {
+        "q": "Which word does not belong: apple, banana, carrot, orange?",
+        "o": ["Apple", "Banana", "Carrot", "Orange"],
+        "a": "Carrot"
+    },
+    {
+        "q": "If A = 1, B = 2, what is C + D?",
+        "o": ["5", "6", "7", "8"],
+        "a": "7"
+    },
+    {
+        "q": "Which shape fits: circle, square, circle, square, ?",
+        "o": ["Circle", "Square", "Triangle", "Hexagon"],
+        "a": "Circle"
+    },
+    {
+        "q": "If all birds fly and penguins are birds, do penguins fly?",
+        "o": ["Yes", "No", "Some do", "Not sure"],
+        "a": "No"
+    },
+    {
+        "q": "What is the missing number: 3, 6, 12, 24, ?",
+        "o": ["36", "48", "60", "72"],
+        "a": "48"
+    },
+    {
+        "q": "Which is the odd one out: 4, 9, 16, 25, 30?",
+        "o": ["4", "9", "16", "25", "30"],
+        "a": "30"
+    },
+    {
+        "q": "If today is Wednesday, what day is it in 10 days?",
+        "o": ["Monday", "Tuesday", "Saturday", "Sunday"],
+        "a": "Saturday"
+    },
+    {
+        "q": "Which word completes: big, bigger, ?",
+        "o": ["Biggest", "Large", "Huge", "Bigger"],
+        "a": "Biggest"
+    },
+    {
+        "q": "If 1 = Red, 2 = Blue, 3 = Green, what is 2 + 1?",
+        "o": ["Red", "Blue", "Green", "Purple"],
+        "a": "Blue"
+    },
+    {
+        "q": "Which number fits: 1, 4, 7, 10, ?",
+        "o": ["12", "13", "14", "15"],
+        "a": "13"
+    },
+    {
+        "q": "What is the opposite of heavy?",
+        "o": ["Big", "Light", "Small", "Tall"],
+        "a": "Light"
+    },
+    {
+        "q": "If cat is to kitten, dog is to ?",
+        "o": ["Puppy", "Cub", "Calf", "Foal"],
+        "a": "Puppy"
+    },
+    {
+        "q": "Which is different: 2, 4, 6, 7, 8?",
+        "o": ["2", "4", "6", "7", "8"],
+        "a": "7"
+    },
+    {
+        "q": "If 5 books weigh 10 pounds, how much do 3 books weigh?",
+        "o": ["4 pounds", "5 pounds", "6 pounds", "7 pounds"],
+        "a": "6 pounds"
+    },
+    {
+        "q": "Which word is out of place: run, jump, swim, book?",
+        "o": ["Run", "Jump", "Swim", "Book"],
+        "a": "Book"
+    },
+    {
+        "q": "What comes next: 1, 2, 4, 7, 11, ?",
+        "o": ["16", "18", "20", "22"],
+        "a": "16"
+    },
+    {
+        "q": "If a clock shows 3:00, what time is it in 4 hours?",
+        "o": ["6:00", "7:00", "8:00", "9:00"],
+        "a": "7:00"
+    },
+    {
+        "q": "Which is the same as fast?",
+        "o": ["Slow", "Quick", "Big", "Small"],
+        "a": "Quick"
+    },
+    {
+        "q": "If 2 apples = 1 orange, how many apples equal 3 oranges?",
+        "o": ["4", "6", "8", "10"],
+        "a": "6"
+    },
+    {
+        "q": "Which shape is missing: triangle, circle, triangle, circle, ?",
+        "o": ["Triangle", "Circle", "Square", "Pentagon"],
+        "a": "Triangle"
+    },
+    {
+        "q": "What is the next letter: A, C, E, I, ?",
+        "o": ["J", "K", "L", "M"],
+        "a": "K"
+    },
+    {
+        "q": "If 10 candies cost $2, how much for 15 candies?",
+        "o": ["$2.50", "$3.00", "$3.50", "$4.00"],
+        "a": "$3.00"
+    },
+    {
+        "q": "Which is not a fruit: apple, banana, carrot, grape?",
+        "o": ["Apple", "Banana", "Carrot", "Grape"],
+        "a": "Carrot"
+    },
+    {
+        "q": "What comes next: 5, 10, 20, 40, ?",
+        "o": ["60", "80", "100", "120"],
+        "a": "80"
+    },
+    {
+        "q": "If big is to small, tall is to ?",
+        "o": ["Short", "Wide", "Long", "Narrow"],
+        "a": "Short"
+    }
+]

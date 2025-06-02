@@ -1,0 +1,127 @@
+[
+    {
+        "q": "Which career involves designing buildings?",
+        "o": ["Architect", "Accountant", "Biologist", "Mechanic"],
+        "a": "Architect"
+    },
+    {
+        "q": "What does a software developer primarily do?",
+        "o": ["Teach classes", "Write code", "Fix cars", "Sell products"],
+        "a": "Write code"
+    },
+    {
+        "q": "Which job focuses on studying animals?",
+        "o": ["Zoologist", "Journalist", "Engineer", "Chef"],
+        "a": "Zoologist"
+    },
+    {
+        "q": "What skill is key for a graphic designer?",
+        "o": ["Budgeting", "Creativity", "Surgery", "Coding"],
+        "a": "Creativity"
+    },
+    {
+        "q": "Which career helps people recover from injuries?",
+        "o": ["Librarian", "Physical Therapist", "Pilot", "Lawyer"],
+        "a": "Physical Therapist"
+    },
+    {
+        "q": "What does an environmental scientist study?",
+        "o": ["Computers", "Ecosystems", "Finances", "History"],
+        "a": "Ecosystems"
+    },
+    {
+        "q": "Which job involves managing a company’s finances?",
+        "o": ["Chef", "Accountant", "Teacher", "Artist"],
+        "a": "Accountant"
+    },
+    {
+        "q": "What is a civil engineer’s main task?",
+        "o": ["Write books", "Build infrastructure", "Treat patients", "Sell clothes"],
+        "a": "Build infrastructure"
+    },
+    {
+        "q": "Which career requires strong public speaking?",
+        "o": ["Data Analyst", "Politician", "Chemist", "Farmer"],
+        "a": "Politician"
+    },
+    {
+        "q": "What does a journalist do?",
+        "o": ["Report news", "Design games", "Fix machines", "Teach math"],
+        "a": "Report news"
+    },
+    {
+        "q": "Which job involves flying planes?",
+        "o": ["Pilot", "Doctor", "Carpenter", "Editor"],
+        "a": "Pilot"
+    },
+    {
+        "q": "What skill is essential for a lawyer?",
+        "o": ["Cooking", "Arguing cases", "Painting", "Driving"],
+        "a": "Arguing cases"
+    },
+    {
+        "q": "Which career designs video games?",
+        "o": ["Game Developer", "Nurse", "Banker", "Astronomer"],
+        "a": "Game Developer"
+    },
+    {
+        "q": "What does a teacher primarily do?",
+        "o": ["Sell cars", "Educate students", "Build houses", "Repair phones"],
+        "a": "Educate students"
+    },
+    {
+        "q": "Which job studies stars and planets?",
+        "o": ["Astronomer", "Dentist", "Marketing Manager", "Coach"],
+        "a": "Astronomer"
+    },
+    {
+        "q": "What is a nurse’s main role?",
+        "o": ["Care for patients", "Write software", "Design clothes", "Manage stores"],
+        "a": "Care for patients"
+    },
+    {
+        "q": "Which career involves creating advertisements?",
+        "o": ["Marketing Specialist", "Geologist", "Mechanic", "Librarian"],
+        "a": "Marketing Specialist"
+    },
+    {
+        "q": "What does a chef do?",
+        "o": ["Prepare food", "Analyze data", "Build bridges", "Write laws"],
+        "a": "Prepare food"
+    },
+    {
+        "q": "Which job requires knowledge of chemicals?",
+        "o": ["Chemist", "Musician", "Salesperson", "Athlete"],
+        "a": "Chemist"
+    },
+    {
+        "q": "What does a psychologist study?",
+        "o": ["Weather", "Human behavior", "Machines", "Plants"],
+        "a": "Human behavior"
+    },
+    {
+        "q": "Which career builds furniture?",
+        "o": ["Carpenter", "Doctor", "Writer", "Scientist"],
+        "a": "Carpenter"
+    },
+    {
+        "q": "What is a veterinarian’s main job?",
+        "o": ["Treat animals", "Sell products", "Design websites", "Teach history"],
+        "a": "Treat animals"
+    },
+    {
+        "q": "Which job manages events?",
+        "o": ["Event Planner", "Physicist", "Driver", "Artist"],
+        "a": "Event Planner"
+    },
+    {
+        "q": "What does a data analyst do?",
+        "o": ["Interpret data", "Perform surgery", "Fly planes", "Write poems"],
+        "a": "Interpret data"
+    },
+    {
+        "q": "Which career involves fixing electrical systems?",
+        "o": ["Electrician", "Teacher", "Musician", "Biologist"],
+        "a": "Electrician"
+    }
+]

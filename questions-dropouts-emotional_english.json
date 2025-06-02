@@ -1,0 +1,32 @@
+[
+    {
+        "q": "How do you typically react when a friend is upset?",
+        "o": ["Ignore them", "Listen and comfort", "Change the topic", "Give advice immediately"],
+        "a": "Listen and comfort"
+    },
+    {
+        "q": "What best describes your approach to conflict?",
+        "o": ["Avoid it", "Confront aggressively", "Seek compromise", "Delegate it"],
+        "a": "Seek compromise"
+    },
+    {
+        "q": "How do you manage stress in a tight deadline?",
+        "o": ["Panic", "Prioritize tasks", "Procrastinate", "Blame others"],
+        "a": "Prioritize tasks"
+    },
+    {
+        "q": "When working in a team, you tend to:",
+        "o": ["Take charge", "Follow others", "Collaborate equally", "Work alone"],
+        "a": "Collaborate equally"
+    },
+    {
+        "q": "How do you respond to criticism?",
+        "o": ["Get defensive", "Reflect and improve", "Ignore it", "Argue back"],
+        "a": "Reflect and improve"
+    },
+    {
+        "q": "What do you do when you make a mistake?",
+        "o": ["Hide it", "Own up and fix it", "Blame someone else", "Deny it"],
+        "a": "Own up and fix it"
+    }
+]

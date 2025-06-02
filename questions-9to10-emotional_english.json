@@ -1,0 +1,127 @@
+[
+    {
+        "q": "How do you react when a friend is upset?",
+        "o": ["Ignore it", "Listen to them", "Change the topic", "Walk away"],
+        "a": "Listen to them"
+    },
+    {
+        "q": "What do you do if a teammate disagrees with you?",
+        "o": ["Argue back", "Find a compromise", "Give in", "Ignore them"],
+        "a": "Find a compromise"
+    },
+    {
+        "q": "How do you handle stress before a big test?",
+        "o": ["Panic", "Study more", "Relax", "Procrastinate"],
+        "a": "Relax"
+    },
+    {
+        "q": "If someone is angry with you, what’s your first step?",
+        "o": ["Apologize", "Explain yourself", "Stay silent", "Get defensive"],
+        "a": "Stay silent"
+    },
+    {
+        "q": "How do you cheer up a classmate who failed a quiz?",
+        "o": ["Make a joke", "Offer help", "Ignore it", "Criticize them"],
+        "a": "Offer help"
+    },
+    {
+        "q": "What do you do if you’re left out of a group?",
+        "o": ["Feel hurt", "Join another group", "Confront them", "Do nothing"],
+        "a": "Join another group"
+    },
+    {
+        "q": "How do you respond to constructive criticism?",
+        "o": ["Get upset", "Consider it", "Ignore it", "Argue"],
+        "a": "Consider it"
+    },
+    {
+        "q": "If a friend cancels plans, how do you feel?",
+        "o": ["Angry", "Understanding", "Jealous", "Indifferent"],
+        "a": "Understanding"
+    },
+    {
+        "q": "How do you handle a group member not doing their share?",
+        "o": ["Do their work", "Talk to them", "Complain", "Ignore it"],
+        "a": "Talk to them"
+    },
+    {
+        "q": "What’s the best way to calm an argument?",
+        "o": ["Raise your voice", "Stay calm", "Walk away", "Interrupt"],
+        "a": "Stay calm"
+    },
+    {
+        "q": "How do you feel when you achieve a goal?",
+        "o": ["Proud", "Relieved", "Neutral", "Anxious"],
+        "a": "Proud"
+    },
+    {
+        "q": "What do you do if you make a mistake in a group project?",
+        "o": ["Hide it", "Admit it", "Blame someone", "Ignore it"],
+        "a": "Admit it"
+    },
+    {
+        "q": "How do you react to someone’s success?",
+        "o": ["Jealous", "Happy for them", "Indifferent", "Competitive"],
+        "a": "Happy for them"
+    },
+    {
+        "q": "If you’re nervous about presenting, what do you do?",
+        "o": ["Avoid it", "Practice", "Rush through", "Make excuses"],
+        "a": "Practice"
+    },
+    {
+        "q": "How do you support a struggling teammate?",
+        "o": ["Do their work", "Encourage them", "Ignore them", "Criticize"],
+        "a": "Encourage them"
+    },
+    {
+        "q": "What do you do if you feel overwhelmed?",
+        "o": ["Push through", "Take a break", "Give up", "Complain"],
+        "a": "Take a break"
+    },
+    {
+        "q": "How do you handle someone interrupting you?",
+        "o": ["Get annoyed", "Politely wait", "Interrupt back", "Stop talking"],
+        "a": "Politely wait"
+    },
+    {
+        "q": "If a friend is distracted, how do you help?",
+        "o": ["Get frustrated", "Refocus them", "Ignore it", "Join them"],
+        "a": "Refocus them"
+    },
+    {
+        "q": "How do you feel in a new social group?",
+        "o": ["Confident", "Shy", "Excited", "Anxious"],
+        "a": "Excited"
+    },
+    {
+        "q": "What’s the best response to failure?",
+        "o": ["Give up", "Try again", "Blame others", "Ignore it"],
+        "a": "Try again"
+    },
+    {
+        "q": "How do you react to unfair treatment?",
+        "o": ["Complain", "Address it calmly", "Accept it", "Retaliate"],
+        "a": "Address it calmly"
+    },
+    {
+        "q": "If you’re late for a meeting, what do you do?",
+        "o": ["Sneak in", "Apologize", "Make excuses", "Skip it"],
+        "a": "Apologize"
+    },
+    {
+        "q": "How do you motivate someone who’s discouraged?",
+        "o": ["Criticize them", "Set goals", "Cheer them", "Leave them"],
+        "a": "Cheer them"
+    },
+    {
+        "q": "What do you do if you disagree with a rule?",
+        "o": ["Break it", "Discuss it", "Follow it", "Ignore it"],
+        "a": "Discuss it"
+    },
+    {
+        "q": "How do you handle a tight deadline?",
+        "o": ["Panic", "Prioritize", "Delay", "Rush"],
+        "a": "Prioritize"
+    }
+]

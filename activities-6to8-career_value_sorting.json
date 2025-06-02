@@ -1,0 +1,62 @@
+[
+    {
+        "task": "Sort these job features by what you like most.",
+        "type": "drag_drop",
+        "items": ["Helping Others", "Having Fun", "Learning New Things"],
+        "correctAnswer": ["Helping Others", "Learning New Things", "Having Fun"]
+    },
+    {
+        "task": "Rank these things you want in a future job.",
+        "type": "drag_drop",
+        "items": ["Working with Friends", "Trying New Ideas", "Getting Rewards"],
+        "correctAnswer": ["Working with Friends", "Trying New Ideas", "Getting Rewards"]
+    },
+    {
+        "task": "Order these job values by what matters to you.",
+        "type": "drag_drop",
+        "items": ["Making a Difference", "Being Creative", "Feeling Safe"],
+        "correctAnswer": ["Making a Difference", "Being Creative", "Feeling Safe"]
+    },
+    {
+        "task": "Sort these work features by importance to you.",
+        "type": "drag_drop",
+        "items": ["Having Choices", "Working as a Team", "Earning Money"],
+        "correctAnswer": ["Having Choices", "Working as a Team", "Earning Money"]
+    },
+    {
+        "task": "Arrange these job ideas from most to least important.",
+        "type": "drag_drop",
+        "items": ["Learning Skills", "Helping People", "Having Free Time"],
+        "correctAnswer": ["Learning Skills", "Helping People", "Having Free Time"]
+    },
+    {
+        "task": "Rank these skills for a future artist.",
+        "type": "drag_drop",
+        "items": ["Being Creative", "Sharing Ideas", "Staying Organized"],
+        "correctAnswer": ["Being Creative", "Sharing Ideas", "Staying Organized"]
+    },
+    {
+        "task": "Order these things for a happy job.",
+        "type": "drag_drop",
+        "items": ["Having Fun", "Feeling Safe", "Learning New Things"],
+        "correctAnswer": ["Having Fun", "Feeling Safe", "Learning New Things"]
+    },
+    {
+        "task": "Sort these skills for a future teacher.",
+        "type": "drag_drop",
+        "items": ["Helping Others", "Explaining Things", "Being Patient"],
+        "correctAnswer": ["Helping Others", "Explaining Things", "Being Patient"]
+    },
+    {
+        "task": "Rank these goals for a future veterinarian.",
+        "type": "drag_drop",
+        "items": ["Caring for Animals", "Learning Science", "Working with People"],
+        "correctAnswer": ["Caring for Animals", "Learning Science", "Working with People"]
+    },
+    {
+        "task": "Order these things for a future scientist.",
+        "type": "drag_drop",
+        "items": ["Asking Questions", "Doing Experiments", "Sharing Results"],
+        "correctAnswer": ["Asking Questions", "Doing Experiments", "Sharing Results"]
+    }
+]

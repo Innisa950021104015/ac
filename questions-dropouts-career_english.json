@@ -1,0 +1,32 @@
+[
+    {
+        "q": "What is a common task for a software developer?",
+        "o": ["Write code", "Manage finances", "Teach students", "Design buildings"],
+        "a": "Write code"
+    },
+    {
+        "q": "Which profession requires a medical degree?",
+        "o": ["Engineer", "Doctor", "Teacher", "Accountant"],
+        "a": "Doctor"
+    },
+    {
+        "q": "What does a marketing manager primarily do?",
+        "o": ["Develop software", "Plan campaigns", "Conduct surgeries", "Build machines"],
+        "a": "Plan campaigns"
+    },
+    {
+        "q": "Which career is associated with the arts?",
+        "o": ["Chemist", "Graphic Designer", "Data Analyst", "Civil Engineer"],
+        "a": "Graphic Designer"
+    },
+    {
+        "q": "What is a key skill for a financial analyst?",
+        "o": ["Painting", "Data analysis", "Surgery", "Coding"],
+        "a": "Data analysis"
+    },
+    {
+        "q": "Which job involves working with heavy machinery?",
+        "o": ["Musician", "Mechanical Engineer", "Librarian", "Counselor"],
+        "a": "Mechanical Engineer"
+    }
+]

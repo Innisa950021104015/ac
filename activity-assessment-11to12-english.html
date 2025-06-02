@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity Assessment: 11th-12th</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">CareerPath</div>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="login.html">Login</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="dashboard.html">Dashboard</a></li>
+        </ul>
+    </nav>
+
+    <div class="hero-section">
+        <h1>Activity Assessment</h1>
+        <div id="instructions" class="instructions">
+            <h2>Instructions</h2>
+            <p>Welcome to the Activity Assessment! Answer 15 scenario-based questions in 5 minutes per category. Select one option per question. Click "Start Test" to begin.</p>
+            <button id="startBtn" class="btn">Start Test</button>
+        </div>
+        <p id="timer" class="timer hidden">Time Remaining: 5:00</p>
+        <div id="assessmentContent" class="assessment-content"></div>
+        <div id="categoryCompletion" class="category-completion hidden">
+            <p id="completionMessage"></p>
+            <button id="nextBtn" class="btn">Next</button>
+        </div>
+        <div id="finalCompletion" class="hidden">
+            <p>Activity Assessment Completed! Download your career suggestions.</p>
+            <button id="downloadBtn" class="btn">Download Career Report</button>
+            <p id="pdfError" class="hidden" style="color: red;">Failed to generate PDF. <a id="viewPdfLink" href="#">View PDF</a></p>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+    <script src="assessment-11to12.js"></script>
+</body>
+</html>

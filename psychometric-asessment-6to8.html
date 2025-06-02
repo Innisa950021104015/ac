@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psychometric Assessment: 6th-8th</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">CareerPath</div>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="login.html">Login</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="dashboard.html">Dashboard</a></li>
+            <li><a href="chat.html">CareerInfo</a></li>
+        </ul>
+    </nav>
+
+    <div class="hero-section">
+        <h1>Psychometric Assessment</h1>
+        <p id="timer">Time Remaining: 30:00</p>
+        <div id="assessmentContent"></div>
+        <button id="nextBtn" class="btn hidden">Next</button>
+        <div id="completion" class="hidden">
+            <p>Category Completed! Moving to next...</p>
+        </div>
+    </div>
+
+    <script src="psychometric-assessment-6to8.js"></script>
+</body>
+</html>

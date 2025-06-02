@@ -1,0 +1,42 @@
+[
+    {
+        "task": "What is a critical skill for a project coordinator?",
+        "type": "quiz",
+        "question": "What is a critical skill for a project coordinator?",
+        "options": ["Graphic design", "Team coordination", "Medical diagnosis", "Legal analysis"],
+        "correctAnswer": "Team coordination",
+        "hint": "Think about managing people and tasks effectively."
+    },
+    {
+        "task": "What is a key responsibility of an environmental scientist?",
+        "type": "quiz",
+        "question": "What is a key responsibility of an environmental scientist?",
+        "options": ["Financial planning", "Environmental impact assessment", "Software coding", "Advertising campaigns"],
+        "correctAnswer": "Environmental impact assessment",
+        "hint": "Focus on activities related to environmental protection."
+    },
+    {
+        "task": "What is essential for a human resources manager?",
+        "type": "quiz",
+        "question": "What is essential for a human resources manager?",
+        "options": ["Engineering design", "Employee relations", "Data programming", "Market research"],
+        "correctAnswer": "Employee relations",
+        "hint": "Consider skills related to managing workplace relationships."
+    },
+    {
+        "task": "What is a common challenge for freelancers?",
+        "type": "quiz",
+        "question": "What is a common challenge for freelancers?",
+        "options": ["Fixed schedules", "Client acquisition", "Guaranteed income", "Low workload"],
+        "correctAnswer": "Client acquisition",
+        "hint": "Think about the difficulties of working independently."
+    },
+    {
+        "task": "What is a primary tool for a cybersecurity specialist?",
+        "type": "quiz",
+        "question": "What is a primary tool for a cybersecurity specialist?",
+        "options": ["Public relations", "Security software", "Financial auditing", "Creative writing"],
+        "correctAnswer": "Security software",
+        "hint": "Focus on tools used to protect digital systems."
+    }
+]

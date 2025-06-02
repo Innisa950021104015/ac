@@ -1,0 +1,62 @@
+[
+    {
+        "task": "Rank career values by importance",
+        "type": "drag_drop",
+        "items": ["Salary", "Job Security", "Creativity", "Work-Life Balance"],
+        "zones": ["Top Priority", "High Priority", "Medium Priority", "Low Priority"],
+        "itemWeights": {
+            "Salary": 2.5,
+            "Job Security": 2.5,
+            "Creativity": 2.5,
+            "Work-Life Balance": 2.5
+        }
+    },
+    {
+        "task": "Sort workplace benefits by preference",
+        "type": "drag_drop",
+        "items": ["Health Insurance", "Flexible Schedule", "Career Growth", "Team Culture"],
+        "zones": ["Most Valued", "Valued", "Neutral", "Least Valued"],
+        "itemWeights": {
+            "Health Insurance": 2.5,
+            "Flexible Schedule": 2.5,
+            "Career Growth": 2.5,
+            "Team Culture": 2.5
+        }
+    },
+    {
+        "task": "Rank job motivators",
+        "type": "drag_drop",
+        "items": ["Recognition", "Autonomy", "Impact", "Stability"],
+        "zones": ["Most Motivating", "Moderately Motivating", "Somewhat Motivating", "Least Motivating"],
+        "itemWeights": {
+            "Recognition": 2.5,
+            "Autonomy": 2.5,
+            "Impact": 2.5,
+            "Stability": 2.5
+        }
+    },
+    {
+        "task": "Order career goals by priority",
+        "type": "drag_drop",
+        "items": ["Leadership Role", "Skill Development", "Financial Success", "Social Impact"],
+        "zones": ["Top Goal", "High Goal", "Medium Goal", "Low Goal"],
+        "itemWeights": {
+            "Leadership Role": 2.5,
+            "Skill Development": 2.5,
+            "Financial Success": 2.5,
+            "Social Impact": 2.5
+        }
+    },
+    {
+        "task": "Sort workplace preferences",
+        "type": "drag_drop",
+        "items": ["Remote Work", "Team Collaboration", "Structured Environment", "Creative Freedom"],
+        "zones": ["Most Preferred", "Preferred", "Neutral", "Least Preferred"],
+        "itemWeights": {
+            "Remote Work": 2.5,
+            "Team Collaboration": 2.5,
+            "Structured Environment": 2.5,
+            "Creative Freedom": 2.5
+        }
+    }
+]

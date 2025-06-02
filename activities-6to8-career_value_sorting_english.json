@@ -1,0 +1,72 @@
+[
+  {
+    "task": "Arrange these job aspects based on what matters most to you.",
+    "type": "drag_drop",
+    "items": ["Work-Life Balance", "Travel Opportunities", "Teamwork", "Learning New Skills"],
+    "zones": ["High", "Medium", "Low"],
+    "scoring": { "maxScore": 10 }
+  },
+  {
+    "task": "Rank these values in a career.",
+    "type": "drag_drop",
+    "items": ["Helping Others", "Making Money", "Solving Problems", "Working with Technology"],
+    "zones": ["High", "Medium", "Low"],
+    "scoring": { "maxScore": 10 }
+  },
+  {
+    "task": "Sort these career goals by importance to you.",
+    "type": "drag_drop",
+    "items": ["Job Security", "Creativity", "Leadership", "Outdoor Work"],
+    "zones": ["High", "Medium", "Low"],
+    "scoring": { "maxScore": 10 }
+  },
+  {
+    "task": "What do you value most in a future job?",
+    "type": "drag_drop",
+    "items": ["Helping Animals", "Using Computers", "Being Active", "Organizing Events"],
+    "zones": ["High", "Medium", "Low"],
+    "scoring": { "maxScore": 10 }
+  },
+  {
+    "task": "Sort the values you care about in a career.",
+    "type": "drag_drop",
+    "items": ["Teamwork", "Working Alone", "Learning Quickly", "Getting Recognition"],
+    "zones": ["High", "Medium", "Low"],
+    "scoring": { "maxScore": 10 }
+  },
+  {
+    "task": "Which of these work styles matter most to you?",
+    "type": "drag_drop",
+    "items": ["Routine Tasks", "Creative Projects", "Fast-paced Work", "Helping People"],
+    "zones": ["High", "Medium", "Low"],
+    "scoring": { "maxScore": 10 }
+  },
+  {
+    "task": "Organize these based on what you want in your career.",
+    "type": "drag_drop",
+    "items": ["Flexible Schedule", "Clear Instructions", "Working with Machines", "Problem Solving"],
+    "zones": ["High", "Medium", "Low"],
+    "scoring": { "maxScore": 10 }
+  },
+  {
+    "task": "Arrange these based on your career preferences.",
+    "type": "drag_drop",
+    "items": ["Independence", "Social Interaction", "Structure", "Helping the Environment"],
+    "zones": ["High", "Medium", "Low"],
+    "scoring": { "maxScore": 10 }
+  },
+  {
+    "task": "Sort these job traits based on what’s important to you.",
+    "type": "drag_drop",
+    "items": ["Being Creative", "Having Responsibility", "Making a Difference", "Working with Tools"],
+    "zones": ["High", "Medium", "Low"],
+    "scoring": { "maxScore": 10 }
+  },
+  {
+    "task": "Rank these based on what you want from a job.",
+    "type": "drag_drop",
+    "items": ["Helping Others", "Hands-on Work", "Working in a Team", "Learning New Things"],
+    "zones": ["High", "Medium", "Low"],
+    "scoring": { "maxScore": 10 }
+  }
+]

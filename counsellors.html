@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Career Counsellors</title>
+  <link rel="stylesheet" href="counsellor.css" />
+</head>
+<body>
+  <nav class="header">
+    <div class="nav-brand">CareerPath</div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="dashboard.html">Dashboard</a></li>
+      <li><a href="chat.html">CareerInfo</a></li>
+      <li><a href="resources.html">Resources</a></li>
+    </ul>
+  </nav>
+
+  <div class="container">
+    <h1>🎯 Meet Our Counsellors</h1>
+
+    <div class="filters">
+      <label><input type="checkbox" id="psychometricFilter" checked /> Psychometric</label>
+      <label><input type="checkbox" id="activityFilter" checked /> Activity-Based</label>
+    </div>
+
+    <div class="counsellor-grid" id="counsellorGrid">
+      <!-- Counsellors will be loaded here -->
+    </div>
+  </div>
+
+  <script src="counsellors.js"></script>
+</body>
+</html>

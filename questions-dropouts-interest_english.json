@@ -1,0 +1,32 @@
+[
+    {
+        "q": "Which activity do you enjoy most?",
+        "o": ["Solving puzzles", "Painting", "Managing teams", "Writing reports"],
+        "a": "Solving puzzles"
+    },
+    {
+        "q": "What type of work excites you?",
+        "o": ["Outdoor tasks", "Office work", "Creative projects", "Routine tasks"],
+        "a": "Creative projects"
+    },
+    {
+        "q": "Which hobby aligns with your interests?",
+        "o": ["Coding", "Gardening", "Accounting", "Teaching"],
+        "a": "Coding"
+    },
+    {
+        "q": "What kind of tasks do you prefer?",
+        "o": ["Analytical", "Social", "Manual", "Administrative"],
+        "a": "Analytical"
+    },
+    {
+        "q": "Which field would you like to explore?",
+        "o": ["Science", "Arts", "Business", "Education"],
+        "a": "Science"
+    },
+    {
+        "q": "What motivates you in a job?",
+        "o": ["Creativity", "Stability", "Leadership", "Helping others"],
+        "a": "Creativity"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "task": "What is essential for a data analyst?",
+        "type": "quiz",
+        "question": "What is essential for a data analyst?",
+        "options": ["Graphic design", "Statistical analysis", "Carpentry skills", "Event planning"],
+        "correctAnswer": "Statistical analysis",
+        "hint": "Focus on skills related to data interpretation."
+    },
+    {
+        "task": "What is essential for a graphic designer?",
+        "type": "quiz",
+        "question": "What is essential for a graphic designer?",
+        "options": ["Creative software proficiency", "Surgical skills", "Accounting knowledge", "Mechanical repair"],
+        "correctAnswer": "Creative software proficiency",
+        "hint": "Think about tools used for visual design."
+    },
+    {
+        "task": "What is essential for a teacher?",
+        "type": "quiz",
+        "question": "What is essential for a teacher?",
+        "options": ["Coding expertise", "Communication skills", "Plumbing knowledge", "Stock trading"],
+        "correctAnswer": "Communication skills",
+        "hint": "Consider skills for effective instruction."
+    },
+    {
+        "task": "What is essential for a nurse?",
+        "type": "quiz",
+        "question": "What is essential for a nurse?",
+        "options": ["Medical knowledge", "Web development", "Culinary arts", "Astronomy expertise"],
+        "correctAnswer": "Medical knowledge",
+        "hint": "Focus on patient care requirements."
+    },
+    {
+        "task": "What is essential for a civil engineer?",
+        "type": "quiz",
+        "question": "What is essential for a civil engineer?",
+        "options": ["Creative writing", "Structural analysis", "Fashion design", "Music composition"],
+        "correctAnswer": "Structural analysis",
+        "hint": "Think about infrastructure and construction."
+    },
+    {
+        "task": "What is essential for a marketing manager?",
+        "type": "quiz",
+        "question": "What is essential for a marketing manager?",
+        "options": ["Mechanical engineering", "Market research skills", "Veterinary skills", "Carpentry"],
+        "correctAnswer": "Market research skills",
+        "hint": "Focus on understanding consumer behavior."
+    },
+    {
+        "task": "What is essential for a chef?",
+        "type": "quiz",
+        "question": "What is essential for a chef?",
+        "options": ["Culinary expertise", "Electrical engineering", "Legal drafting", "Astrology"],
+        "correctAnswer": "Culinary expertise",
+        "hint": "Consider skills for food preparation."
+    },
+    {
+        "task": "What is essential for a cybersecurity specialist?",
+        "type": "quiz",
+        "question": "What is essential for a cybersecurity specialist?",
+        "options": ["Gardening skills", "Network security knowledge", "Dance choreography", "Poetry writing"],
+        "correctAnswer": "Network security knowledge",
+        "hint": "Think about protecting digital systems."
+    },
+    {
+        "task": "What is essential for a financial advisor?",
+        "type": "quiz",
+        "question": "What is essential for a financial advisor?",
+        "options": ["Investment knowledge", "Sculpting skills", "Marine biology", "Theater direction"],
+        "correctAnswer": "Investment knowledge",
+        "hint": "Focus on managing finances."
+    },
+    {
+        "task": "What is essential for a journalist?",
+        "type": "quiz",
+        "question": "What is essential for a journalist?",
+        "options": ["Chemical engineering", "Investigative reporting skills", "Carpentry", "Athletic training"],
+        "correctAnswer": "Investigative reporting skills",
+        "hint": "Think about gathering and presenting news."
+    }
+]

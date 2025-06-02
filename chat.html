@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Career Chatbot</title>
+  <link rel="stylesheet" href="stylesC.css">
+</head>
+<body>
+  <nav class="header">
+    <div class="nav-brand">☰CareerPath</div>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="counsellors.html">Counsellors</a></li>
+      <li><a href="resources.html">Resources</a></li>
+    </ul>    
+</nav>
+  <div class="container">
+    <h1>🎓Career Guidance Chat🎓</h1>
+    <div id="chat-container">
+      <div id="chatbox"></div>
+      <input type="text" id="userInput" placeholder="Try 'engineer', 'data scientist', or 'open doctor'..." />
+    </div>
+
+
+    <!-- Embedded resource preview -->
+    <div id="iframe-container" style="display: none;">
+      <label for="linkSelect"><b>Choose a resource to preview:</b></label>
+      <select id="linkSelect"></select>
+      <iframe id="resourceFrame" src="" frameborder="0"></iframe>
+    </div>
+  </div>
+  <script src="careerbot.js"></script>
+</body>
+</html>

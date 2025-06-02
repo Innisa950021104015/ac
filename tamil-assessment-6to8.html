@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>மதிப்பீடு: 6 முதல் 8 ஆம் வகுப்பு (தமிழ்)</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">வாழ்க்கைப் பாதை</div>
+        
+        <ul class="nav-links">
+            <li><a href="index.html">முகப்பு</a></li>
+            <li><a href="login.html">உள்நுழைவு</a></li>
+            <li><a href="about.html">பற்றி</a></li>
+            <li><a href="dashboard.html">கட்டுப்பாட்டு பலகை</a></li>
+        </ul>
+    </nav>
+
+    <div class="hero-section">
+        <h1>6 முதல் 8 ஆம் வகுப்பு மாணவர்களுக்கான மதிப்பீடு</h1>
+        <img src="image1.jpg" alt="Online Exam">
+        <div class="assessment-types">
+            <button id="psychometricBtn" class="btn">மனோவியல் மதிப்பீடு</button>
+            <button id="activityBtn" class="btn" disabled>செயல்பாடு அடிப்படையிலான மதிப்பீடு</button>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('psychometricBtn').addEventListener('click', () => {
+            window.location.href = 'psychometric-assessment-6to8-tamil.html?category=aptitude';
+        });
+    </script>
+</body>
+</html>

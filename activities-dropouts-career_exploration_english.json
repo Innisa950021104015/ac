@@ -1,0 +1,162 @@
+[
+    {
+        "task": "Match the career to its core function",
+        "type": "drag_drop",
+        "items": [
+            "Maintains aircraft systems",
+            "Prepares legal documents",
+            "Ensures network security",
+            "Organizes events",
+            "Plans travel itineraries"
+        ],
+        "zones": [
+            "Aerospace Engineer",
+            "Lawyer",
+            "Cybersecurity Specialist",
+            "Event Planner",
+            "Travel Agent"
+        ],
+        "correctAnswers": {
+            "Aerospace Engineer": "Maintains aircraft systems",
+            "Lawyer": "Prepares legal documents",
+            "Cybersecurity Specialist": "Ensures network security",
+            "Event Planner": "Organizes events",
+            "Travel Agent": "Plans travel itineraries"
+        },
+        "itemWeights": {
+            "Maintains aircraft systems": 2,
+            "Prepares legal documents": 2,
+            "Ensures network security": 2,
+            "Organizes events": 2,
+            "Plans travel itineraries": 2
+        }
+    },
+    {
+        "task": "Match the career to its essential skill",
+        "type": "drag_drop",
+        "items": [
+            "Customer relationship management",
+            "Complex data analysis",
+            "Critical thinking",
+            "Team coordination",
+            "Innovative design"
+        ],
+        "zones": [
+            "Sales Manager",
+            "Data Scientist",
+            "Judge",
+            "Project Coordinator",
+            "Industrial Designer"
+        ],
+        "correctAnswers": {
+            "Sales Manager": "Customer relationship management",
+            "Data Scientist": "Complex data analysis",
+            "Judge": "Critical thinking",
+            "Project Coordinator": "Team coordination",
+            "Industrial Designer": "Innovative design"
+        },
+        "itemWeights": {
+            "Customer relationship management": 2,
+            "Complex data analysis": 2,
+            "Critical thinking": 2,
+            "Team coordination": 2,
+            "Innovative design": 2
+        }
+    },
+    {
+        "task": "Match the career to its workplace",
+        "type": "drag_drop",
+        "items": [
+            "Corporate office",
+            "Courtroom",
+            "Laboratory",
+            "Event venue",
+            "Design studio"
+        ],
+        "zones": [
+            "Financial Analyst",
+            "Attorney",
+            "Biologist",
+            "Event Coordinator",
+            "Product Designer"
+        ],
+        "correctAnswers": {
+            "Financial Analyst": "Corporate office",
+            "Attorney": "Courtroom",
+            "Biologist": "Laboratory",
+            "Event Coordinator": "Event venue",
+            "Product Designer": "Design studio"
+        },
+        "itemWeights": {
+            "Corporate office": 2,
+            "Courtroom": 2,
+            "Laboratory": 2,
+            "Event venue": 2,
+            "Design studio": 2
+        }
+    },
+    {
+        "task": "Match the career to its key responsibility",
+        "type": "drag_drop",
+        "items": [
+            "Conducting field research",
+            "Negotiating contracts",
+            "Developing marketing strategies",
+            "Analyzing financial data",
+            "Creating user interfaces"
+        ],
+        "zones": [
+            "Environmental Scientist",
+            "Business Consultant",
+            "Marketing Strategist",
+            "Financial Advisor",
+            "UI/UX Designer"
+        ],
+        "correctAnswers": {
+            "Environmental Scientist": "Conducting field research",
+            "Business Consultant": "Negotiating contracts",
+            "Marketing Strategist": "Developing marketing strategies",
+            "Financial Advisor": "Analyzing financial data",
+            "UI/UX Designer": "Creating user interfaces"
+        },
+        "itemWeights": {
+            "Conducting field research": 2,
+            "Negotiating contracts": 2,
+            "Developing marketing strategies": 2,
+            "Analyzing financial data": 2,
+            "Creating user interfaces": 2
+        }
+    },
+    {
+        "task": "Match the career to its daily activity",
+        "type": "drag_drop",
+        "items": [
+            "Writing technical reports",
+            "Advising clients on investments",
+            "Designing product prototypes",
+            "Training employees",
+            "Monitoring network systems"
+        ],
+        "zones": [
+            "Technical Writer",
+            "Investment Advisor",
+            "Product Engineer",
+            "HR Trainer",
+            "Network Administrator"
+        ],
+        "correctAnswers": {
+            "Technical Writer": "Writing technical reports",
+            "Investment Advisor": "Advising clients on investments",
+            "Product Engineer": "Designing product prototypes",
+            "HR Trainer": "Training employees",
+            "Network Administrator": "Monitoring network systems"
+        },
+        "itemWeights": {
+            "Writing technical reports": 2,
+            "Advising clients on investments": 2,
+            "Designing product prototypes": 2,
+            "Training employees": 2,
+            "Monitoring network systems": 2
+        }
+    }
+]

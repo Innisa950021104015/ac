@@ -1,0 +1,127 @@
+[
+    {
+        "q": "Solve for x: 2x + 5 = 13",
+        "o": ["3", "4", "5", "6"],
+        "a": "4"
+    },
+    {
+        "q": "If a shirt costs $20 after a 25% discount, what was the original price?",
+        "o": ["$24", "$25", "$26.67", "$28"],
+        "a": "$26.67"
+    },
+    {
+        "q": "What is the next number in the sequence: 2, 5, 11, 23, ?",
+        "o": ["44", "47", "50", "53"],
+        "a": "47"
+    },
+    {
+        "q": "If all cats are mammals and some mammals are black, are some cats black?",
+        "o": ["Yes", "No", "Maybe", "Not enough information"],
+        "a": "Not enough information"
+    },
+    {
+        "q": "A project takes 6 workers 8 days. How many days for 4 workers?",
+        "o": ["10", "12", "14", "16"],
+        "a": "12"
+    },
+    {
+        "q": "Which shape has 5 sides?",
+        "o": ["Square", "Pentagon", "Hexagon", "Octagon"],
+        "a": "Pentagon"
+    },
+    {
+        "q": "If 3 apples cost $1.50, how much for 5 apples?",
+        "o": ["$2.00", "$2.50", "$3.00", "$3.50"],
+        "a": "$2.50"
+    },
+    {
+        "q": "What is 15% of 80?",
+        "o": ["10", "12", "15", "18"],
+        "a": "12"
+    },
+    {
+        "q": "If x is an odd number, which must be even?",
+        "o": ["x + 1", "x - 1", "x * 2", "x / 2"],
+        "a": "x + 1"
+    },
+    {
+        "q": "Which number is divisible by both 3 and 4?",
+        "o": ["18", "24", "30", "36"],
+        "a": "24"
+    },
+    {
+        "q": "A car travels 120 miles in 2 hours. What is its speed?",
+        "o": ["50 mph", "60 mph", "70 mph", "80 mph"],
+        "a": "60 mph"
+    },
+    {
+        "q": "What is the area of a rectangle with length 6 and width 4?",
+        "o": ["18", "20", "24", "28"],
+        "a": "24"
+    },
+    {
+        "q": "If 2/3 of a number is 12, what is the number?",
+        "o": ["16", "18", "20", "24"],
+        "a": "18"
+    },
+    {
+        "q": "Which is the smallest prime number greater than 10?",
+        "o": ["11", "13", "15", "17"],
+        "a": "11"
+    },
+    {
+        "q": "If a + b = 10 and a - b = 4, what is a?",
+        "o": ["5", "6", "7", "8"],
+        "a": "7"
+    },
+    {
+        "q": "What is the perimeter of a square with side 5?",
+        "o": ["15", "20", "25", "30"],
+        "a": "20"
+    },
+    {
+        "q": "If 4 books cost $24, how much for 7 books?",
+        "o": ["$36", "$40", "$42", "$48"],
+        "a": "42"
+    },
+    {
+        "q": "Which fraction is equivalent to 3/4?",
+        "o": ["6/8", "4/6", "2/3", "5/7"],
+        "a": "6/8"
+    },
+    {
+        "q": "What is the value of 2^4?",
+        "o": ["8", "12", "16", "20"],
+        "a": "16"
+    },
+    {
+        "q": "If a train leaves at 2:00 PM and travels 50 mph, when does it arrive 150 miles away?",
+        "o": ["4:00 PM", "5:00 PM", "6:00 PM", "7:00 PM"],
+        "a": "5:00 PM"
+    },
+    {
+        "q": "Which is a right angle?",
+        "o": ["45 degrees", "90 degrees", "120 degrees", "180 degrees"],
+        "a": "90 degrees"
+    },
+    {
+        "q": "If 5x = 25, what is x?",
+        "o": ["3", "4", "5", "6"],
+        "a": "5"
+    },
+    {
+        "q": "What is 20% of 50?",
+        "o": ["8", "10", "12", "15"],
+        "a": "10"
+    },
+    {
+        "q": "Which number comes next: 1, 4, 9, 16, ?",
+        "o": ["20", "25", "30", "36"],
+        "a": "25"
+    },
+    {
+        "q": "If a store gives a $10 discount on a $50 item, what is the discount percentage?",
+        "o": ["10%", "15%", "20%", "25%"],
+        "a": "20%"
+    }
+]

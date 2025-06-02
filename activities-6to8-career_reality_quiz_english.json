@@ -1,0 +1,82 @@
+[
+  {
+    "task": "What is essential for a software developer?",
+    "type": "quiz",
+    "question": "What is essential for a software developer?",
+    "options": ["Public speaking", "Coding skills", "Medical knowledge", "Legal expertise"],
+    "correctAnswer": "Coding skills",
+    "hint": "Focus on technical skills for software."
+  },
+  {
+    "task": "What is essential for a doctor?",
+    "type": "quiz",
+    "question": "What is essential for a doctor?",
+    "options": ["Painting skills", "Financial advising", "Medical knowledge", "Computer programming"],
+    "correctAnswer": "Medical knowledge",
+    "hint": "Think about who helps people stay healthy."
+  },
+  {
+    "task": "What is essential for a teacher?",
+    "type": "quiz",
+    "question": "What is essential for a teacher?",
+    "options": ["Classroom management", "Welding", "Driving skills", "Singing"],
+    "correctAnswer": "Classroom management",
+    "hint": "Teachers guide students every day."
+  },
+  {
+    "task": "What is essential for a firefighter?",
+    "type": "quiz",
+    "question": "What is essential for a firefighter?",
+    "options": ["Typing speed", "Bravery and physical strength", "Math skills", "Medical degree"],
+    "correctAnswer": "Bravery and physical strength",
+    "hint": "Think about the dangers they face."
+  },
+  {
+    "task": "What is essential for an architect?",
+    "type": "quiz",
+    "question": "What is essential for an architect?",
+    "options": ["Knowledge of buildings and design", "Teaching skills", "Biology knowledge", "Public speaking"],
+    "correctAnswer": "Knowledge of buildings and design",
+    "hint": "They design buildings and structures."
+  },
+  {
+    "task": "What is essential for a journalist?",
+    "type": "quiz",
+    "question": "What is essential for a journalist?",
+    "options": ["Writing and research", "Carpentry", "Accounting", "Coding"],
+    "correctAnswer": "Writing and research",
+    "hint": "They report news and stories."
+  },
+  {
+    "task": "What is essential for a chef?",
+    "type": "quiz",
+    "question": "What is essential for a chef?",
+    "options": ["Cooking skills", "Driving", "Banking", "Teaching"],
+    "correctAnswer": "Cooking skills",
+    "hint": "They work in the kitchen."
+  },
+  {
+    "task": "What is essential for a pilot?",
+    "type": "quiz",
+    "question": "What is essential for a pilot?",
+    "options": ["Flight training", "Sewing", "Art", "Chemistry"],
+    "correctAnswer": "Flight training",
+    "hint": "They fly airplanes safely."
+  },
+  {
+    "task": "What is essential for a police officer?",
+    "type": "quiz",
+    "question": "What is essential for a police officer?",
+    "options": ["Law knowledge", "Fashion sense", "Painting", "Programming"],
+    "correctAnswer": "Law knowledge",
+    "hint": "They help enforce laws."
+  },
+  {
+    "task": "What is essential for a veterinarian?",
+    "type": "quiz",
+    "question": "What is essential for a veterinarian?",
+    "options": ["Animal care knowledge", "Driving license", "Musical skills", "Legal knowledge"],
+    "correctAnswer": "Animal care knowledge",
+    "hint": "They help sick animals."
+  }
+]

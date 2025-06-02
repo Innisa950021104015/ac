@@ -1,0 +1,72 @@
+[
+  {
+    "task": "Motivate a struggling colleague",
+    "type": "scenario",
+    "scenario": "A colleague is demotivated and falling behind. How do you support them?",
+    "hint": "Consider encouragement, resources, and teamwork.",
+    "hintKeywords": ["encourage", "support", "resources", "team"]
+  },
+  {
+    "task": "Resolve a team conflict",
+    "type": "scenario",
+    "scenario": "Two team members have a disagreement that's affecting the team's progress. How do you handle it?",
+    "hint": "Focus on communication, neutrality, and collaboration.",
+    "hintKeywords": ["conflict resolution", "communication", "neutral", "collaboration"]
+  },
+  {
+    "task": "Help a new team member adjust",
+    "type": "scenario",
+    "scenario": "A new colleague seems overwhelmed and unsure of their tasks. How do you assist them?",
+    "hint": "Think about onboarding, mentorship, and clarity.",
+    "hintKeywords": ["onboarding", "mentorship", "clarity", "guidance"]
+  },
+  {
+    "task": "Deliver critical feedback",
+    "type": "scenario",
+    "scenario": "You need to give feedback to a colleague whose work is consistently below expectations. How do you approach the conversation?",
+    "hint": "Focus on honesty, tact, and improvement.",
+    "hintKeywords": ["feedback", "constructive", "tact", "growth"]
+  },
+  {
+    "task": "Lead a project under tight deadline",
+    "type": "scenario",
+    "scenario": "You’ve been asked to lead a team to complete a complex project in a short time. How do you ensure success?",
+    "hint": "Think about planning, delegation, and motivation.",
+    "hintKeywords": ["leadership", "planning", "delegation", "time management"]
+  },
+  {
+    "task": "Handle a difficult customer",
+    "type": "scenario",
+    "scenario": "A customer is angry about a mistake made by your team. How do you handle the situation?",
+    "hint": "Consider empathy, accountability, and resolution.",
+    "hintKeywords": ["empathy", "apologize", "resolve", "customer service"]
+  },
+  {
+    "task": "Promote inclusivity in the workplace",
+    "type": "scenario",
+    "scenario": "You notice a colleague being excluded from conversations and decisions. What do you do?",
+    "hint": "Focus on inclusion, awareness, and action.",
+    "hintKeywords": ["inclusion", "awareness", "diversity", "respect"]
+  },
+  {
+    "task": "Encourage creativity in your team",
+    "type": "scenario",
+    "scenario": "Your team is stuck in repetitive routines. How would you spark innovation and fresh ideas?",
+    "hint": "Think about brainstorming, freedom, and support.",
+    "hintKeywords": ["creativity", "innovation", "encourage", "ideas"]
+  },
+  {
+    "task": "Step up in a leadership gap",
+    "type": "scenario",
+    "scenario": "Your manager is unexpectedly unavailable during a critical phase. How do you take initiative?",
+    "hint": "Consider leadership, decision-making, and coordination.",
+    "hintKeywords": ["initiative", "leadership", "decisions", "accountability"]
+  },
+  {
+    "task": "Build rapport in a remote team",
+    "type": "scenario",
+    "scenario": "Your team is fully remote and members feel disconnected. What do you do to improve team bonding?",
+    "hint": "Focus on communication, engagement, and virtual presence.",
+    "hintKeywords": ["remote work", "team bonding", "engagement", "communication"]
+  }
+]

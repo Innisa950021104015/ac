@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psychometric Assessment Categories: 6th-8th</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">CareerPath</div>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="login.html">Login</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="dashboard.html">Dashboard</a></li>
+            <li><a href="chat.html">CareerInfo</a></li>
+        </ul>
+    </nav>
+
+    <div class="hero-section">
+        <h1>Psychometric Assessment</h1>
+        <div id="instructions" class="assessment-info">
+            <p><strong>Instructions:</strong> This assessment has 7 categories with 20 questions each. Answer all questions within 30 minutes. Select the correct option for each question. Click "Start" to begin.</p>
+            <button id="startBtn" class="btn">Start</button>
+        </div>
+        <p id="timer" class="hidden">Time Remaining: 30:00</p>
+        <div id="assessmentContent" class="hidden"></div>
+        <button id="nextBtn" class="btn hidden">Next</button>
+        <div id="completion" class="hidden">
+            <p>Psychometric Assessment Completed! <button id="startActivityBtn" class="btn">Start Activity-Based Test</button></p>
+        </div>
+    </div>
+
+    <script src="assessment-6to8.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+[
+    {
+        "task": "Describe how you would lead a team meeting",
+        "type": "scenario",
+        "scenario": "You are tasked with leading a team meeting to discuss a new project. How do you ensure it is productive?",
+        "hint": "Focus on communication, organization, and motivation.",
+        "hintKeywords": ["agenda", "listen", "motivate", "clear"]
+    },
+    {
+        "task": "Handle a team conflict",
+        "type": "scenario",
+        "scenario": "Two team members disagree on a project approach, causing delays. How do you resolve this?",
+        "hint": "Consider mediation, listening, and finding common ground.",
+        "hintKeywords": ["mediate", "listen", "compromise", "resolve"]
+    },
+    {
+        "task": "Respond to a client complaint",
+        "type": "scenario",
+        "scenario": "A client is unhappy with a delayed delivery. How do you address their concerns?",
+        "hint": "Think about empathy, solutions, and clear communication.",
+        "hintKeywords": ["apologize", "solution", "communicate", "empathy"]
+    },
+    {
+        "task": "Propose a new idea to your manager",
+        "type": "scenario",
+        "scenario": "You have an idea to improve a process at work. How do you present it to your manager?",
+        "hint": "Focus on clarity, benefits, and evidence.",
+        "hintKeywords": ["benefit", "clear", "evidence", "propose"]
+    },
+    {
+        "task": "Motivate a struggling colleague",
+        "type": "scenario",
+        "scenario": "A colleague is demotivated and falling behind. How do you support them?",
+        "hint": "Consider encouragement, resources, and teamwork.",
+        "hintKeywords": ["encourage", "support", "resources", "team"]
+    }
+]

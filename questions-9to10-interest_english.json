@@ -1,0 +1,127 @@
+[
+    {
+        "q": "Do you enjoy solving math problems?",
+        "o": ["Always", "Sometimes", "Rarely", "Never"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Are you interested in drawing or painting?",
+        "o": ["Love it", "Like it", "Neutral", "Dislike it"],
+        "a": "Like it"
+    },
+    {
+        "q": "Do you like working with computers?",
+        "o": ["Yes", "No", "Sometimes", "Not sure"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Is building things with tools fun for you?",
+        "o": ["Always", "Sometimes", "Rarely", "Never"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Do you enjoy writing stories or essays?",
+        "o": ["Love it", "Like it", "Neutral", "Dislike it"],
+        "a": "Like it"
+    },
+    {
+        "q": "Are you interested in learning about animals?",
+        "o": ["Yes", "No", "Sometimes", "Not sure"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Do you like performing in front of others?",
+        "o": ["Always", "Sometimes", "Rarely", "Never"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Is exploring nature exciting for you?",
+        "o": ["Love it", "Like it", "Neutral", "Dislike it"],
+        "a": "Like it"
+    },
+    {
+        "q": "Do you enjoy organizing events?",
+        "o": ["Yes", "No", "Sometimes", "Not sure"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Are you interested in fixing machines?",
+        "o": ["Always", "Sometimes", "Rarely", "Never"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Do you like analyzing data or statistics?",
+        "o": ["Love it", "Like it", "Neutral", "Dislike it"],
+        "a": "Like it"
+    },
+    {
+        "q": "Is teaching others something you enjoy?",
+        "o": ["Yes", "No", "Sometimes", "Not sure"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Do you enjoy designing websites?",
+        "o": ["Always", "Sometimes", "Rarely", "Never"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Are you interested in cooking or baking?",
+        "o": ["Love it", "Like it", "Neutral", "Dislike it"],
+        "a": "Like it"
+    },
+    {
+        "q": "Do you like solving mysteries or puzzles?",
+        "o": ["Yes", "No", "Sometimes", "Not sure"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Is playing a musical instrument fun for you?",
+        "o": ["Always", "Sometimes", "Rarely", "Never"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Do you enjoy planning trips or events?",
+        "o": ["Love it", "Like it", "Neutral", "Dislike it"],
+        "a": "Like it"
+    },
+    {
+        "q": "Are you interested in studying history?",
+        "o": ["Yes", "No", "Sometimes", "Not sure"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Do you like working with kids?",
+        "o": ["Always", "Sometimes", "Rarely", "Never"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Is creating videos or movies exciting?",
+        "o": ["Love it", "Like it", "Neutral", "Dislike it"],
+        "a": "Like it"
+    },
+    {
+        "q": "Do you enjoy debating ideas?",
+        "o": ["Yes", "No", "Sometimes", "Not sure"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Are you interested in fashion design?",
+        "o": ["Always", "Sometimes", "Rarely", "Never"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Do you like experimenting with science?",
+        "o": ["Love it", "Like it", "Neutral", "Dislike it"],
+        "a": "Like it"
+    },
+    {
+        "q": "Is helping people solve problems rewarding?",
+        "o": ["Yes", "No", "Sometimes", "Not sure"],
+        "a": "Sometimes"
+    },
+    {
+        "q": "Do you enjoy building models or crafts?",
+        "o": ["Always", "Sometimes", "Rarely", "Never"],
+        "a": "Sometimes"
+    }
+]

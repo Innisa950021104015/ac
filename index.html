@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - CareerPath</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div style="display:flex;justify-content:center;align-items:center;">
+            <img class="header" src="log.jpg" alt="tn logo not found" style="margin-right: auto;">
+            <h1>CAREER  GUIDANCE  FOR  SCHOOL  STUDENTS</h1>
+            <img class="header" src="tn.jpg" alt="tn logo not found" style="margin-left: auto;">
+        </div>
+    </header>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="nav-brand">CareerPath</div>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="login.html">Login</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="dashboard.html">Dashboard</a></li>
+            <li><a href="chat.html">CareerInfo</a></li>
+            <li><a href="resources.html">Resources</a></li>
+            <li><a href="counsellors.html">Counsellors</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="hero-section">
+        <h1>Welcome to CareerPath</h1>
+        <img src="log.jpg" alt="Online Exam">
+        <p>Discover your future with our psychometric and activity-based assessments designed for school students.</p>
+        <div class="assessment-options">
+            <button id="englishAssessment" class="btn"></button>
+            <button id="tamilAssessment" class="btn"></button>
+        </div>
+    </div>
+
+    <!-- Student Category Section (Hidden Initially) -->
+    <div id="studentCategory" class="category-section hidden">
+        <h1>Select Your Standard</h1>
+        <div class="category-options">
+            <button id="std6to8" class="btn category-btn">6th - 8th</button>
+            <button id="std9to10" class="btn category-btn">9th - 10th</button>
+            <button id="std11to12" class="btn category-btn">11th - 12th</button>
+            <button id="dropouts" class="btn category-btn">Drop Outs/இடைநிற்றல் மாணவர்கள்(தேர்ச்சி பெறாதவர்கள்)</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

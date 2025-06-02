@@ -1,0 +1,42 @@
+[
+    {
+        "task": "What is a key factor in career advancement?",
+        "type": "quiz",
+        "question": "What is a key factor in career advancement?",
+        "options": ["Networking", "Long hours", "Avoiding feedback", "Minimal effort"],
+        "correctAnswer": "Networking",
+        "hint": "Consider building professional relationships."
+    },
+    {
+        "task": "What is the primary role of a data analyst?",
+        "type": "quiz",
+        "question": "What is the primary role of a data analyst?",
+        "options": ["Write code", "Analyze data", "Manage teams", "Design graphics"],
+        "correctAnswer": "Analyze data",
+        "hint": "Involves interpreting data sets."
+    },
+    {
+        "task": "What skill is most important for a teacher?",
+        "type": "quiz",
+        "question": "What skill is most important for a teacher?",
+        "options": ["Programming", "Communication", "Accounting", "Engineering"],
+        "correctAnswer": "Communication",
+        "hint": "Think about interacting with students."
+    },
+    {
+        "task": "What is a common challenge for entrepreneurs?",
+        "type": "quiz",
+        "question": "What is a common challenge for entrepreneurs?",
+        "options": ["Stable income", "Risk management", "Fixed hours", "Minimal stress"],
+        "correctAnswer": "Risk management",
+        "hint": "Consider the uncertainties of starting a business."
+    },
+    {
+        "task": "What is essential for a software developer?",
+        "type": "quiz",
+        "question": "What is essential for a software developer?",
+        "options": ["Public speaking", "Coding skills", "Medical knowledge", "Legal expertise"],
+        "correctAnswer": "Coding skills",
+        "hint": "Focus on technical skills for software."
+    }
+]

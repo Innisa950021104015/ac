@@ -1,0 +1,32 @@
+[
+    {
+        "q": "Which shape comes next in the pattern: circle, square, triangle, circle, ...?",
+        "o": ["Square", "Triangle", "Circle", "Hexagon"],
+        "a": "Square"
+    },
+    {
+        "q": "If all roses are flowers and some flowers are red, are some roses red?",
+        "o": ["Yes", "No", "Maybe", "Cannot determine"],
+        "a": "Cannot determine"
+    },
+    {
+        "q": "What is the missing number: 1, 3, 6, 10, __?",
+        "o": ["12", "14", "15", "16"],
+        "a": "15"
+    },
+    {
+        "q": "Which word does not belong: big, large, small, huge?",
+        "o": ["Big", "Large", "Small", "Huge"],
+        "a": "Small"
+    },
+    {
+        "q": "If today is Wednesday, what day is it in 10 days?",
+        "o": ["Monday", "Tuesday", "Saturday", "Sunday"],
+        "a": "Saturday"
+    },
+    {
+        "q": "How many sides does a pentagon have?",
+        "o": ["4", "5", "6", "7"],
+        "a": "5"
+    }
+]

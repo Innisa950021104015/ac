@@ -1,0 +1,32 @@
+[
+    {
+        "q": "How do you motivate a team?",
+        "o": ["Set clear goals", "Ignore them", "Micromanage", "Avoid meetings"],
+        "a": "Set clear goals"
+    },
+    {
+        "q": "What is important in decision-making?",
+        "o": ["Act impulsively", "Consider all options", "Delay decisions", "Follow others"],
+        "a": "Consider all options"
+    },
+    {
+        "q": "How do you handle team conflict?",
+        "o": ["Ignore it", "Mediate fairly", "Take sides", "Dismiss it"],
+        "a": "Mediate fairly"
+    },
+    {
+        "q": "What is a key leadership trait?",
+        "o": ["Arrogance", "Empathy", "Indecision", "Isolation"],
+        "a": "Empathy"
+    },
+    {
+        "q": "How do you delegate tasks?",
+        "o": ["Do everything yourself", "Assign based on strengths", "Randomly assign", "Avoid delegating"],
+        "a": "Assign based on strengths"
+    },
+    {
+        "q": "What inspires team loyalty?",
+        "o": ["Fear", "Respect", "Competition", "Neglect"],
+        "a": "Respect"
+    }
+]

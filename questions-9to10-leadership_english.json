@@ -1,0 +1,127 @@
+[
+    {
+        "q": "How do you start a group project?",
+        "o": ["Wait for others", "Make a plan", "Do it alone", "Avoid it"],
+        "a": "Make a plan"
+    },
+    {
+        "q": "What’s the best way to motivate a team?",
+        "o": ["Criticize", "Set goals", "Do their work", "Ignore them"],
+        "a": "Set goals"
+    },
+    {
+        "q": "If a teammate is confused, what do you do?",
+        "o": ["Explain clearly", "Ignore them", "Get frustrated", "Change tasks"],
+        "a": "Explain clearly"
+    },
+    {
+        "q": "How do you handle a team disagreement?",
+        "o": ["Take a vote", "Decide alone", "Argue", "Do nothing"],
+        "a": "Take a vote"
+    },
+    {
+        "q": "What’s the first step in organizing an event?",
+        "o": ["Make a budget", "Invite everyone", "Choose a date", "Do nothing"],
+        "a": "Choose a date"
+    },
+    {
+        "q": "How do you ensure everyone contributes?",
+        "o": ["Assign tasks", "Do it all", "Complain", "Hope they help"],
+        "a": "Assign tasks"
+    },
+    {
+        "q": "What do you do if a deadline is tight?",
+        "o": ["Give up", "Prioritize", "Rush", "Blame others"],
+        "a": "Prioritize"
+    },
+    {
+        "q": "How do you encourage a shy teammate?",
+        "o": ["Push them", "Give them roles", "Ignore them", "Criticize"],
+        "a": "Give them roles"
+    },
+    {
+        "q": "What’s key to leading a meeting?",
+        "o": ["Talk the most", "Stay on topic", "Let it run", "Cancel it"],
+        "a": "Stay on topic"
+    },
+    {
+        "q": "How do you handle a mistake you made?",
+        "o": ["Hide it", "Admit it", "Blame someone", "Ignore it"],
+        "a": "Admit it"
+    },
+    {
+        "q": "What do you do if the team is off track?",
+        "o": ["Redirect them", "Start over", "Give up", "Do nothing"],
+        "a": "Redirect them"
+    },
+    {
+        "q": "How do you celebrate a team’s success?",
+        "o": ["Take credit", "Thank everyone", "Ignore it", "Plan another"],
+        "a": "Thank everyone"
+    },
+    {
+        "q": "What’s the best way to set team goals?",
+        "o": ["Decide alone", "Discuss together", "Copy others", "Avoid goals"],
+        "a": "Discuss together"
+    },
+    {
+        "q": "How do you handle a team member’s absence?",
+        "o": ["Do their work", "Adjust plans", "Complain", "Cancel"],
+        "a": "Adjust plans"
+    },
+    {
+        "q": "What do you do before a big presentation?",
+        "o": ["Wing it", "Practice", "Avoid it", "Delegate it"],
+        "a": "Practice"
+    },
+    {
+        "q": "How do you keep a team focused?",
+        "o": ["Set reminders", "Work alone", "Get strict", "Do nothing"],
+        "a": "Set reminders"
+    },
+    {
+        "q": "What’s the best response to team failure?",
+        "o": ["Blame someone", "Learn from it", "Give up", "Ignore it"],
+        "a": "Learn from it"
+    },
+    {
+        "q": "How do you assign tasks fairly?",
+        "o": ["Randomly", "Match skills", "Give to one", "Avoid tasks"],
+        "a": "Match skills"
+    },
+    {
+        "q": "What do you do if a plan isn’t working?",
+        "o": ["Stick to it", "Change it", "Blame others", "Quit"],
+        "a": "Change it"
+    },
+    {
+        "q": "How do you build team trust?",
+        "o": ["Be honest", "Control everything", "Stay distant", "Flatter them"],
+        "a": "Be honest"
+    },
+    {
+        "q": "What’s key to giving instructions?",
+        "o": ["Be vague", "Be clear", "Be strict", "Avoid them"],
+        "a": "Be clear"
+    },
+    {
+        "q": "How do you handle a lazy teammate?",
+        "o": ["Do their work", "Talk to them", "Ignore them", "Kick them out"],
+        "a": "Talk to them"
+    },
+    {
+        "q": "What do you do if you’re unsure of a decision?",
+        "o": ["Guess", "Ask the team", "Avoid it", "Force it"],
+        "a": "Ask the team"
+    },
+    {
+        "q": "How do you keep a team motivated?",
+        "o": ["Push them", "Encourage them", "Ignore them", "Criticize"],
+        "a": "Encourage them"
+    },
+    {
+        "q": "What’s the best way to end a project?",
+        "o": ["Review it", "Move on", "Celebrate alone", "Do nothing"],
+        "a": "Review it"
+    }
+]

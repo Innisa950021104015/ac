@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up - CareerPath</title>
+    <link rel="stylesheet" href="styl.css">
+</head>
+<body>
+    <header>
+        <div class="header">
+            <h1 style="text-align: center;">CAREER GUIDANCE FOR SCHOOL STUDENTS</h1>
+        </div>
+    </header>
+
+    <nav class="navbar">
+        <div class="nav-brand">CareerPath</div>
+        <ul class="nav-links">
+            <li><a href="index.html">🏠 Home</a></li>
+            <li><a href="login.html">📝 Login</a></li>
+            <li><a href="about.html">📖 About</a></li>
+            <li><a href="dashboard.html">📚 Dashboard</a></li>
+            <li><a href="careerinfo.html">🎓 CareerInfo</a></li>
+            <li><a href="resources.html">📄 Resources</a></li>
+            <li><a href="counsellors.html">🧠 Counsellors</a></li>
+            <li><a href="index1.html">🚪 Logout</a></li>
+        </ul>
+    </nav>
+
+
+    <!-- Sign Up Section -->
+    <div class="hero-section">
+        <h1>Sign Up for CareerPath</h1>
+        <div class="assessment-info">
+            <form id="signupForm">
+                <label for="fullname">Full Name:</label>
+                <input type="text" id="fullname" name="fullname" required placeholder="Enter your full name">
+                
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required placeholder="Enter your email">
+                
+                <label for="username">Username:</label>
+                <input type="text" id="username" name="username" required placeholder="Choose a username">
+                
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required placeholder="Create a password">
+                
+                <label for="confirm-password">Confirm Password:</label>
+                <input type="password" id="confirm-password" name="confirm-password" required placeholder="Confirm your password">
+                
+                <button type="submit" class="btn">Sign Up</button>
+            </form>
+            <p>Already have an account? <a href="login.html">Login here</a></p>
+        </div>
+    </div>
+
+    <script>
+        // Basic sign-up form submission (for demo purposes)
+        document.getElementById('signupForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const password = document.getElementById('password').value;
+            const confirmPassword = document.getElementById('confirm-password').value;
+
+            if (password !== confirmPassword) {
+                alert('Passwords do not match!');
+                return;
+            }
+
+            alert('Sign Up successful! Redirecting to Dashboard...');
+            window.location.href = 'dashboard.html';
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+[
+    {
+        "task": "What is a good job to try when you’re older?",
+        "type": "multiple_choice",
+        "options": ["Astronaut", "Teacher", "Movie Star", "President"],
+        "correctAnswer": "Teacher"
+    },
+    {
+        "task": "What skill helps you work well with others?",
+        "type": "multiple_choice",
+        "options": ["Drawing", "Listening", "Running", "Singing"],
+        "correctAnswer": "Listening"
+    },
+    {
+        "task": "What is a fun part of working from home?",
+        "type": "multiple_choice",
+        "options": ["More homework", "Wearing pajamas", "Long meetings", "No breaks"],
+        "correctAnswer": "Wearing pajamas"
+    },
+    {
+        "task": "What helps you get a job you like?",
+        "type": "multiple_choice",
+        "options": ["Playing games", "Learning new things", "Watching TV", "Eating snacks"],
+        "correctAnswer": "Learning new things"
+    },
+    {
+        "task": "What is important when picking a job?",
+        "type": "multiple_choice",
+        "options": ["Having fun", "Big office", "Fancy car", "Long hours"],
+        "correctAnswer": "Having fun"
+    },
+    {
+        "task": "What does a veterinarian do?",
+        "type": "multiple_choice",
+        "options": ["Fixes cars", "Helps animals", "Sells clothes", "Builds houses"],
+        "correctAnswer": "Helps animals"
+    },
+    {
+        "task": "What skill does an artist need?",
+        "type": "multiple_choice",
+        "options": ["Counting money", "Drawing pictures", "Writing code", "Fixing pipes"],
+        "correctAnswer": "Drawing pictures"
+    },
+    {
+        "task": "What does a park ranger care about?",
+        "type": "multiple_choice",
+        "options": ["Making movies", "Protecting nature", "Selling toys", "Cooking food"],
+        "correctAnswer": "Protecting nature"
+    },
+    {
+        "task": "What is important for a teacher?",
+        "type": "multiple_choice",
+        "options": ["Winning races", "Helping students", "Building bridges", "Flying planes"],
+        "correctAnswer": "Helping students"
+    },
+    {
+        "task": "What does a librarian do?",
+        "type": "multiple_choice",
+        "options": ["Drives buses", "Finds books", "Paints houses", "Repairs computers"],
+        "correctAnswer": "Finds books"
+    },
+    {
+        "task": "What skill does a firefighter need?",
+        "type": "multiple_choice",
+        "options": ["Singing songs", "Being brave", "Writing stories", "Selling cars"],
+        "correctAnswer": "Being brave"
+    },
+    {
+        "task": "What does a chef do?",
+        "type": "multiple_choice",
+        "options": ["Cooks food", "Flies planes", "Teaches math", "Cleans parks"],
+        "correctAnswer": "Cooks food"
+    },
+    {
+        "task": "What skill does a scientist need?",
+        "type": "multiple_choice",
+        "options": ["Playing sports", "Asking questions", "Making clothes", "Driving trucks"],
+        "correctAnswer": "Asking questions"
+    },
+    {
+        "task": "What is a good first job for a teenager?",
+        "type": "multiple_choice",
+        "options": ["Pet sitter", "Rocket scientist", "Mayor", "TV star"],
+        "correctAnswer": "Pet sitter"
+    },
+    {
+        "task": "What helps you stay good at a job?",
+        "type": "multiple_choice",
+        "options": ["Never learning", "Trying new things", "Skipping work", "Ignoring rules"],
+        "correctAnswer": "Trying new things"
+    }
+]

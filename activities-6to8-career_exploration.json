@@ -1,0 +1,102 @@
+[
+    {
+        "task": "What does a veterinarian do to help animals?",
+        "type": "text_input",
+        "scoring": {"maxScore": 10},
+        "verification": {
+            "minWords": 8
+        },
+        "hint": "Think about treating sick animals or checkups.",
+        "hintKeywords": ["treating", "animals", "checkups"]
+    },
+    {
+        "task": "Describe what a teacher does in a classroom.",
+        "type": "text_input",
+        "scoring": {"maxScore": 10},
+        "verification": {
+            "minWords": 8
+        },
+        "hint": "Include teaching lessons and helping students.",
+        "hintKeywords": ["teaching", "lessons", "students"]
+    },
+    {
+        "task": "Explain how a firefighter helps keep people safe.",
+        "type": "text_input",
+        "scoring": {"maxScore": 10},
+        "verification": {
+            "minWords": 8
+        },
+        "hint": "Mention putting out fires and rescuing people.",
+        "hintKeywords": ["fires", "rescuing", "safety"]
+    },
+    {
+        "task": "Discuss one challenge a chef faces and how they solve it.",
+        "type": "text_input",
+        "scoring": {"maxScore": 10},
+        "verification": {
+            "minWords": 8
+        },
+        "hint": "Think about cooking mistakes or time pressure.",
+        "hintKeywords": ["cooking", "mistakes", "pressure"]
+    },
+    {
+        "task": "What does a park ranger do to protect nature?",
+        "type": "text_input",
+        "scoring": {"maxScore": 10},
+        "verification": {
+            "minWords": 8
+        },
+        "hint": "Focus on caring for parks or wildlife.",
+        "hintKeywords": ["parks", "wildlife", "protection"]
+    },
+    {
+        "task": "Describe how a librarian helps people find books.",
+        "type": "text_input",
+        "scoring": {"maxScore": 10},
+        "verification": {
+            "minWords": 8
+        },
+        "hint": "Mention organizing books or giving advice.",
+        "hintKeywords": ["organizing", "books", "advice"]
+    },
+    {
+        "task": "Explain one job a police officer does to help the community.",
+        "type": "text_input",
+        "scoring": {"maxScore": 10},
+        "verification": {
+            "minWords": 8
+        },
+        "hint": "Think about safety or helping people.",
+        "hintKeywords": ["safety", "helping", "community"]
+    },
+    {
+        "task": "What challenge might a bus driver face and how do they fix it?",
+        "type": "text_input",
+        "scoring": {"maxScore": 10},
+        "verification": {
+            "minWords": 8
+        },
+        "hint": "Consider traffic or keeping schedules.",
+        "hintKeywords": ["traffic", "schedules", "driving"]
+    },
+    {
+        "task": "How does a graphic designer make things look nice?",
+        "type": "text_input",
+        "scoring": {"maxScore": 10},
+        "verification": {
+            "minWords": 8
+        },
+        "hint": "Talk about creating pictures or designs.",
+        "hintKeywords": ["creating", "pictures", "designs"]
+    },
+    {
+        "task": "Describe what a scientist does in a lab.",
+        "type": "text_input",
+        "scoring": {"maxScore": 10},
+        "verification": {
+            "minWords": 8
+        },
+        "hint": "Mention experiments or discoveries.",
+        "hintKeywords": ["experiments", "discoveries", "lab"]
+    }
+]

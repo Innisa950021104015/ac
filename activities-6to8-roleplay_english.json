@@ -1,0 +1,72 @@
+[
+  {
+    "task": "Motivate a struggling colleague",
+    "type": "scenario",
+    "scenario": "A colleague is demotivated and falling behind. How do you support them?",
+    "hint": "Consider encouragement, resources, and teamwork.",
+    "hintKeywords": ["encourage", "support", "resources", "team"]
+  },
+  {
+    "task": "Resolve a team disagreement",
+    "type": "scenario",
+    "scenario": "Your team disagrees on how to complete a project. What do you do to help solve the problem?",
+    "hint": "Think about listening, sharing ideas, and working together.",
+    "hintKeywords": ["communication", "teamwork", "compromise", "problem-solving"]
+  },
+  {
+    "task": "Welcome a new team member",
+    "type": "scenario",
+    "scenario": "A new student joins your group for a class activity. How do you help them feel included?",
+    "hint": "Include them in conversations and explain the task.",
+    "hintKeywords": ["inclusion", "support", "team", "communication"]
+  },
+  {
+    "task": "Handle a missed deadline",
+    "type": "scenario",
+    "scenario": "Your teammate missed their part of a group assignment. How do you respond?",
+    "hint": "Stay calm and focus on solutions, not blame.",
+    "hintKeywords": ["responsibility", "understanding", "communication", "teamwork"]
+  },
+  {
+    "task": "Help a classmate understand a task",
+    "type": "scenario",
+    "scenario": "A classmate is confused about their role in a group project. What do you do?",
+    "hint": "Think about clear instructions and support.",
+    "hintKeywords": ["explain", "guide", "collaborate", "patience"]
+  },
+  {
+    "task": "Take leadership during a group task",
+    "type": "scenario",
+    "scenario": "No one is taking charge of a team activity. How do you help your group move forward?",
+    "hint": "Consider how to organize and encourage your team.",
+    "hintKeywords": ["leadership", "initiative", "teamwork", "planning"]
+  },
+  {
+    "task": "Calm a nervous team member",
+    "type": "scenario",
+    "scenario": "A teammate is nervous about presenting to the class. What would you do to help them?",
+    "hint": "Support their confidence and offer to practice with them.",
+    "hintKeywords": ["support", "confidence", "practice", "encouragement"]
+  },
+  {
+    "task": "Handle a mistake during teamwork",
+    "type": "scenario",
+    "scenario": "You made a mistake in your part of a group task. How do you handle it with your team?",
+    "hint": "Be honest and look for ways to fix it together.",
+    "hintKeywords": ["honesty", "accountability", "teamwork", "problem-solving"]
+  },
+  {
+    "task": "Encourage a quiet teammate to share ideas",
+    "type": "scenario",
+    "scenario": "A quiet teammate has great ideas but doesn’t speak up. What would you do?",
+    "hint": "Invite them to share and make them feel heard.",
+    "hintKeywords": ["encouragement", "inclusion", "respect", "listening"]
+  },
+  {
+    "task": "React to unfair group behavior",
+    "type": "scenario",
+    "scenario": "One team member is doing all the work while others relax. What do you do?",
+    "hint": "Promote fairness and teamwork in a respectful way.",
+    "hintKeywords": ["fairness", "respect", "leadership", "communication"]
+  }
+]

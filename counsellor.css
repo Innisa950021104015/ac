@@ -1,0 +1,193 @@
+/* ---------- Global Styles ---------- */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: url('https://images.unsplash.com/photo-1581093588401-6c02a4b1ba3b?auto=format&fit=crop&w=1950&q=80') no-repeat center center fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  padding-top: 5rem; /* space for fixed header */
+}
+
+/* ---------- Overlay Container ---------- */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.9); /* Slight transparency */
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(2px);
+}
+
+/* ---------- Header Styles ---------- */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(30, 58, 138, 0.95); /* Semi-transparent deep blue */
+  padding: 1rem 2rem;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  flex-wrap: wrap;
+}
+
+/* ---------- Navigation Brand ---------- */
+.nav-brand {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+/* ---------- Navigation Links ---------- */
+.nav-links {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.nav-links::-webkit-scrollbar {
+  display: none;
+}
+
+.nav-links li {
+  flex-shrink: 0;
+}
+
+.nav-links a {
+  color: #f0f4ff;
+  text-decoration: none;
+  font-size: 1rem;
+  padding: 0.5rem 0.8rem;
+  border-radius: 5px;
+  white-space: nowrap;
+  transition: background-color 0.3s ease;
+}
+
+.nav-links a:hover {
+  background-color: #3b82f6;
+  color: #fff;
+}
+
+/* ---------- Page Title ---------- */
+h1 {
+  text-align: center;
+  color: #1e3a8a;
+  margin-bottom: 2rem;
+}
+
+/* ---------- Filters Section ---------- */
+.filters {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  font-size: 1rem;
+  color: #1e3a8a;
+}
+
+.filters label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* ---------- Counsellor Grid ---------- */
+.counsellor-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2rem;
+}
+
+/* ---------- Counsellor Card ---------- */
+.counsellor-card {
+  background: #ffffff;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.counsellor-card:hover {
+  transform: translateY(-5px);
+}
+
+.counsellor-card h3 {
+  margin-bottom: 0.5rem;
+  color: #1e3a8a;
+  font-size: 1.2rem;
+}
+
+.counsellor-card p {
+  color: #555;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin: 0.5rem 0;
+}
+
+/* ---------- Specialization Badge ---------- */
+.badge {
+  display: inline-block;
+  padding: 0.3rem 0.6rem;
+  background-color: #3b82f6;
+  color: white;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  margin: 0.25rem;
+}
+
+/* ---------- Contact Button ---------- */
+.btn-contact {
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  background-color: #1e3a8a;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.2s ease;
+}
+
+.btn-contact:hover {
+  background-color: #3b82f6;
+}
+
+/* ---------- Responsive Adjustments ---------- */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav-links {
+    flex-direction: column;
+    width: 100%;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+
+  .nav-links li {
+    width: 100%;
+  }
+
+  .nav-links a {
+    display: block;
+    width: 100%;
+  }
+
+  .filters {
+    flex-direction: column;
+    align-items: center;
+  }
+}

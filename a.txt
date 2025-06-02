@@ -1,0 +1,45 @@
+const englishBtn = document.getElementById('englishAssessment');
+const tamilBtn = document.getElementById('tamilAssessment');
+const studentCategorySection = document.getElementById('studentCategory');
+const std6to8Btn = document.getElementById('std6to8');
+const std9to10Btn = document.getElementById('std9to10');
+const std11to12Btn = document.getElementById('std11to12');
+const dropoutsBtn = document.getElementById('dropouts');
+
+// Variables to track language
+let selectedLanguage = '';
+
+// Show student category section when assessment type is clicked
+englishBtn.addEventListener('click', () => {
+    selectedLanguage = 'english';
+    studentCategorySection.classList.remove('hidden');
+    scrollToSection(studentCategorySection);
+});
+
+tamilBtn.addEventListener('click', () => {
+    selectedLanguage = 'tamil';
+    studentCategorySection.classList.remove('hidden');
+    scrollToSection(studentCategorySection);
+});
+
+// Navigate to respective assessment pages based on category
+std6to8Btn.addEventListener('click', () => {
+    window.location.href = `${selectedLanguage}-assessment-6to8.html`;
+});
+
+std9to10Btn.addEventListener('click', () => {
+    window.location.href = `${selectedLanguage}-assessment-9to10.html`;
+});
+
+std11to12Btn.addEventListener('click', () => {
+    window.location.href = `${selectedLanguage}-assessment-11to12.html`;
+});
+
+dropoutsBtn.addEventListener('click', () => {
+    window.location.href = `${selectedLanguage}-assessment-dropouts.html`;
+});
+
+// Smooth scroll function
+function scrollToSection(section) {
+    section.scrollIntoView({ behavior: 'smooth' });
+}

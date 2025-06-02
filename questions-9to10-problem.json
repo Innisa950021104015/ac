@@ -1,0 +1,127 @@
+[
+    {
+        "q": "You have $50 to buy supplies for a project. If pens cost $2 each and notebooks cost $5 each, how many pens can you buy if you get 3 notebooks?",
+        "o": ["15", "17", "18", "20"],
+        "a": "17"
+    },
+    {
+        "q": "Your club needs 100 cookies for an event. Each batch makes 25 cookies and takes 30 minutes. How long will it take to bake enough?",
+        "o": ["90 min", "120 min", "150 min", "180 min"],
+        "a": "120 min"
+    },
+    {
+        "q": "A trip is 120 miles, and your car gets 30 miles per gallon. Gas costs $3 per gallon. How much will the trip cost?",
+        "o": ["$9", "$12", "$15", "$18"],
+        "a": "$12"
+    },
+    {
+        "q": "You need to paint a room 10 ft by 12 ft. One can of paint covers 40 sq ft and costs $20. How much will it cost?",
+        "o": ["$40", "$60", "$80", "$100"],
+        "a": "$60"
+    },
+    {
+        "q": "A class has 24 students, and you need teams of 4. How many teams will there be?",
+        "o": ["4", "5", "6", "7"],
+        "a": "6"
+    },
+    {
+        "q": "You have 2 hours to finish 3 tasks: Task A takes 30 min, Task B takes 45 min. How much time for Task C?",
+        "o": ["30 min", "45 min", "60 min", "75 min"],
+        "a": "45 min"
+    },
+    {
+        "q": "A store offers a 20% discount on a $50 item. What’s the final price?",
+        "o": ["$36", "$38", "$40", "$42"],
+        "a": "40"
+    },
+    {
+        "q": "You need 5 volunteers for an event, but only 3 signed up. How many more do you need?",
+        "o": ["1", "2", "3", "4"],
+        "a": "2"
+    },
+    {
+        "q": "A garden is 8 ft by 6 ft. Fencing costs $5 per ft. How much to fence it?",
+        "o": ["$140", "$120", "$110", "$100"],
+        "a": "$140"
+    },
+    {
+        "q": "You’re organizing seats for 30 people. Each row holds 6. How many rows?",
+        "o": ["4", "5", "6", "7"],
+        "a": "5"
+    },
+    {
+        "q": "A recipe needs 2 cups of flour for 12 cookies. How much for 18 cookies?",
+        "o": ["2.5 cups", "3 cups", "3.5 cups", "4 cups"],
+        "a": "3 cups"
+    },
+    {
+        "q": "You have $100 for a trip. A ticket costs $45, and food is $20. How much is left?",
+        "o": ["$25", "$30", "$35", "$40"],
+        "a": "$35"
+    },
+    {
+        "q": "A book is 200 pages, and you read 25 pages a day. How many days to finish?",
+        "o": ["6", "7", "8", "9"],
+        "a": "8"
+    },
+    {
+        "q": "You need 4 posters, each costing $6, and $10 for tape. What’s the total cost?",
+        "o": ["$28", "$30", "$32", "$34"],
+        "a": "$34"
+    },
+    {
+        "q": "A team needs to raise $500. Each member raises $50. How many members?",
+        "o": ["8", "9", "10", "11"],
+        "a": "10"
+    },
+    {
+        "q": "You’re packing 24 items into boxes of 6. How many boxes?",
+        "o": ["3", "4", "5", "6"],
+        "a": "4"
+    },
+    {
+        "q": "A bus holds 40 people. If 120 people need rides, how many buses?",
+        "o": ["2", "3", "4", "5"],
+        "a": "3"
+    },
+    {
+        "q": "You have 90 minutes to study 3 subjects equally. How long per subject?",
+        "o": ["25 min", "30 min", "35 min", "40 min"],
+        "a": "30 min"
+    },
+    {
+        "q": "A shirt costs $30 after a 25% discount. What was the original price?",
+        "o": ["$36", "$38", "$40", "$42"],
+        "a": "$40"
+    },
+    {
+        "q": "You need 10 chairs for a meeting, but have 6. How many more?",
+        "o": ["2", "3", "4", "5"],
+        "a": "4"
+    },
+    {
+        "q": "A fence is 50 ft long, and paint costs $2 per ft. What’s the cost?",
+        "o": ["$80", "$90", "$100", "$110"],
+        "a": "$100"
+    },
+    {
+        "q": "You’re splitting $60 among 4 friends equally. How much per friend?",
+        "o": ["$12", "$15", "$18", "$20"],
+        "a": "$15"
+    },
+    {
+        "q": "A task takes 3 people 6 hours. How long for 2 people?",
+        "o": ["7 hours", "8 hours", "9 hours", "10 hours"],
+        "a": "9 hours"
+    },
+    {
+        "q": "You need 15 balloons, and each pack has 5. How many packs?",
+        "o": ["2", "3", "4", "5"],
+        "a": "3"
+    },
+    {
+        "q": "A movie is 120 minutes, and you start at 7:00 PM. When does it end?",
+        "o": ["8:00 PM", "9:00 PM", "10:00 PM", "11:00 PM"],
+        "a": "9:00 PM"
+    }
+]

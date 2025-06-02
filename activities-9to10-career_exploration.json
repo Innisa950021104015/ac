@@ -1,0 +1,162 @@
+[
+    {
+        "task": "Match the career to its reality",
+        "type": "drag_drop",
+        "items": [
+            "Develops software applications",
+            "Guides students' career paths",
+            "Designs mechanical systems",
+            "Analyzes market trends",
+            "Provides patient care"
+        ],
+        "zones": [
+            "Software Developer",
+            "Career Counselor",
+            "Mechanical Engineer",
+            "Marketing Specialist",
+            "Nurse"
+        ],
+        "correctAnswers": {
+            "Software Developer": "Develops software applications",
+            "Career Counselor": "Guides students' career paths",
+            "Mechanical Engineer": "Designs mechanical systems",
+            "Marketing Specialist": "Analyzes market trends",
+            "Nurse": "Provides patient care"
+        },
+        "itemWeights": {
+            "Develops software applications": 2,
+            "Guides students' career paths": 2,
+            "Designs mechanical systems": 2,
+            "Analyzes market trends": 2,
+            "Provides patient care": 2
+        }
+    },
+    {
+        "task": "Match the career to its primary responsibility",
+        "type": "drag_drop",
+        "items": [
+            "Manages financial records",
+            "Conducts scientific experiments",
+            "Creates visual content",
+            "Leads project teams",
+            "Teaches academic subjects"
+        ],
+        "zones": [
+            "Accountant",
+            "Research Scientist",
+            "Graphic Designer",
+            "Project Manager",
+            "Teacher"
+        ],
+        "correctAnswers": {
+            "Accountant": "Manages financial records",
+            "Research Scientist": "Conducts scientific experiments",
+            "Graphic Designer": "Creates visual content",
+            "Project Manager": "Leads project teams",
+            "Teacher": "Teaches academic subjects"
+        },
+        "itemWeights": {
+            "Manages financial records": 2,
+            "Conducts scientific experiments": 2,
+            "Creates visual content": 2,
+            "Leads project teams": 2,
+            "Teaches academic subjects": 2
+        }
+    },
+    {
+        "task": "Match the career to its work environment",
+        "type": "drag_drop",
+        "items": [
+            "Office with computers",
+            "Classroom setting",
+            "Hospital or clinic",
+            "Engineering workshop",
+            "Marketing agency"
+        ],
+        "zones": [
+            "Data Analyst",
+            "Professor",
+            "Doctor",
+            "Civil Engineer",
+            "Advertising Manager"
+        ],
+        "correctAnswers": {
+            "Data Analyst": "Office with computers",
+            "Professor": "Classroom setting",
+            "Doctor": "Hospital or clinic",
+            "Civil Engineer": "Engineering workshop",
+            "Advertising Manager": "Marketing agency"
+        },
+        "itemWeights": {
+            "Office with computers": 2,
+            "Classroom setting": 2,
+            "Hospital or clinic": 2,
+            "Engineering workshop": 2,
+            "Marketing agency": 2
+        }
+    },
+    {
+        "task": "Match the career to its key skill",
+        "type": "drag_drop",
+        "items": [
+            "Problem-solving",
+            "Empathy",
+            "Creativity",
+            "Leadership",
+            "Analytical thinking"
+        ],
+        "zones": [
+            "Engineer",
+            "Social Worker",
+            "Artist",
+            "Manager",
+            "Statistician"
+        ],
+        "correctAnswers": {
+            "Engineer": "Problem-solving",
+            "Social Worker": "Empathy",
+            "Artist": "Creativity",
+            "Manager": "Leadership",
+            "Statistician": "Analytical thinking"
+        },
+        "itemWeights": {
+            "Problem-solving": 2,
+            "Empathy": 2,
+            "Creativity": 2,
+            "Leadership": 2,
+            "Analytical thinking": 2
+        }
+    },
+    {
+        "task": "Match the career to its daily task",
+        "type": "drag_drop",
+        "items": [
+            "Writing code",
+            "Counseling clients",
+            "Designing structures",
+            "Creating ad campaigns",
+            "Diagnosing patients"
+        ],
+        "zones": [
+            "Programmer",
+            "Psychologist",
+            "Architect",
+            "Marketing Manager",
+            "Physician"
+        ],
+        "correctAnswers": {
+            "Programmer": "Writing code",
+            "Psychologist": "Counseling clients",
+            "Architect": "Designing structures",
+            "Marketing Manager": "Creating ad campaigns",
+            "Physician": "Diagnosing patients"
+        },
+        "itemWeights": {
+            "Writing code": 2,
+            "Counseling clients": 2,
+            "Designing structures": 2,
+            "Creating ad campaigns": 2,
+            "Diagnosing patients": 2
+        }
+    }
+]
