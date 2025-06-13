@@ -2,72 +2,41 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sign Up - CareerPath</title>
-    <link rel="stylesheet" href="styl.css">
+    <title>Signup - CareerPath</title>
+    <link rel="stylesheet" href="styles1.css">
 </head>
 <body>
-    <header>
-        <div class="header">
-            <h1 style="text-align: center;">CAREER GUIDANCE FOR SCHOOL STUDENTS</h1>
-        </div>
-    </header>
-
-    <nav class="navbar">
-        <div class="nav-brand">CareerPath</div>
-        <ul class="nav-links">
-            <li><a href="index.html">🏠 Home</a></li>
-            <li><a href="login.html">📝 Login</a></li>
-            <li><a href="about.html">📖 About</a></li>
-            <li><a href="dashboard.html">📚 Dashboard</a></li>
-            <li><a href="careerinfo.html">🎓 CareerInfo</a></li>
-            <li><a href="resources.html">📄 Resources</a></li>
-            <li><a href="counsellors.html">🧠 Counsellors</a></li>
-            <li><a href="index1.html">🚪 Logout</a></li>
-        </ul>
-    </nav>
-
-
-    <!-- Sign Up Section -->
-    <div class="hero-section">
-        <h1>Sign Up for CareerPath</h1>
-        <div class="assessment-info">
-            <form id="signupForm">
-                <label for="fullname">Full Name:</label>
-                <input type="text" id="fullname" name="fullname" required placeholder="Enter your full name">
-                
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required placeholder="Enter your email">
-                
-                <label for="username">Username:</label>
-                <input type="text" id="username" name="username" required placeholder="Choose a username">
-                
-                <label for="password">Password:</label>
-                <input type="password" id="password" name="password" required placeholder="Create a password">
-                
-                <label for="confirm-password">Confirm Password:</label>
-                <input type="password" id="confirm-password" name="confirm-password" required placeholder="Confirm your password">
-                
-                <button type="submit" class="btn">Sign Up</button>
-            </form>
+    <div class="form-container">
+        <h2>Signup</h2>
+        <form id="signupForm">
+            <input type="text" id="signupUsername" placeholder="Username" required>
+            <input type="email" id="signupEmail" placeholder="Email" required>
+            <input type="password" id="signupPassword" placeholder="Password" required>
+            <input type="password" id="confirmPassword" placeholder="Confirm Password" required>
+            <button type="submit">Signup</button>
             <p>Already have an account? <a href="login.html">Login here</a></p>
-        </div>
+        </form>
     </div>
 
     <script>
-        // Basic sign-up form submission (for demo purposes)
-        document.getElementById('signupForm').addEventListener('submit', (e) => {
+        document.getElementById("signupForm").addEventListener("submit", function(e){
             e.preventDefault();
-            const password = document.getElementById('password').value;
-            const confirmPassword = document.getElementById('confirm-password').value;
+            const user = document.getElementById("signupUsername").value;
+            const email = document.getElementById("signupEmail").value;
+            const pass = document.getElementById("signupPassword").value;
+            const confirm = document.getElementById("confirmPassword").value;
 
-            if (password !== confirmPassword) {
-                alert('Passwords do not match!');
+            if(pass !== confirm){
+                alert("Passwords do not match!");
                 return;
             }
 
-            alert('Sign Up successful! Redirecting to Dashboard...');
-            window.location.href = 'dashboard.html';
+            // Store data in localStorage (for demo only)
+            localStorage.setItem("username", user);
+            localStorage.setItem("email", email);
+            localStorage.setItem("password", pass);
+            alert("Signup successful! Please login.");
+            window.location.href = "login.html";
         });
     </script>
 </body>
