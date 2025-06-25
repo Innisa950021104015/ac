@@ -2,42 +2,80 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Signup - CareerPath</title>
-    <link rel="stylesheet" href="styles1.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <header>
+        <div style="display:flex;justify-content:center;align-items:center;">
+            <img class="header" src="log.jpg" alt="tn logo not found" style="margin-right: auto;">
+            <h1>CAREER GUIDANCE FOR SCHOOL STUDENTS</h1>
+            <img class="header" src="tn.jpg" alt="tn logo not found" style="margin-left: auto;">
+        </div>
+    </header>
     <div class="form-container">
         <h2>Signup</h2>
-        <form id="signupForm">
-            <input type="text" id="signupUsername" placeholder="Username" required>
-            <input type="email" id="signupEmail" placeholder="Email" required>
-            <input type="password" id="signupPassword" placeholder="Password" required>
-            <input type="password" id="confirmPassword" placeholder="Confirm Password" required>
-            <button type="submit">Signup</button>
-            <p>Already have an account? <a href="login.html">Login here</a></p>
-        </form>
+        <input type="text" id="signupName" placeholder="Full Name" required>
+        <input type="email" id="signupEmail" placeholder="Email" required>
+        <input type="password" id="signupPassword" placeholder="Password" required>
+        <input type="password" id="confirmPassword" placeholder="Confirm Password" required>
+        <input type="text" id="studentId" placeholder="Student ID (leave blank for admin)" required>
+        <label><input type="checkbox" id="isAdmin" onclick="toggleStudentId()"> Register as Admin</label>
+        <button onclick="signup()">Signup</button>
+        <p id="signupError" class="error"></p>
+        <a href="login.html">Already have an account? Login here</a>
     </div>
 
     <script>
-        document.getElementById("signupForm").addEventListener("submit", function(e){
-            e.preventDefault();
-            const user = document.getElementById("signupUsername").value;
-            const email = document.getElementById("signupEmail").value;
-            const pass = document.getElementById("signupPassword").value;
-            const confirm = document.getElementById("confirmPassword").value;
+        function toggleStudentId() {
+            const studentIdInput = document.getElementById('studentId');
+            const isAdmin = document.getElementById('isAdmin').checked;
+            studentIdInput.disabled = isAdmin;
+            studentIdInput.required = !isAdmin;
+            studentIdInput.value = isAdmin ? '' : studentIdInput.value;
+        }
 
-            if(pass !== confirm){
-                alert("Passwords do not match!");
+        function signup() {
+            const name = document.getElementById('signupName').value;
+            const email = document.getElementById('signupEmail').value;
+            const password = document.getElementById('signupPassword').value;
+            const confirmPassword = document.getElementById('confirmPassword').value;
+            const studentId = document.getElementById('studentId').value;
+            const isAdmin = document.getElementById('isAdmin').checked;
+
+            if (!name || !email || !password || !confirmPassword || (!isAdmin && !studentId)) {
+                document.getElementById('signupError').textContent = 'All required fields must be filled.';
                 return;
             }
 
-            // Store data in localStorage (for demo only)
-            localStorage.setItem("username", user);
-            localStorage.setItem("email", email);
-            localStorage.setItem("password", pass);
-            alert("Signup successful! Please login.");
-            window.location.href = "login.html";
-        });
+            if (password !== confirmPassword) {
+                document.getElementById('signupError').textContent = 'Passwords do not match.';
+                return;
+            }
+
+            if (!email.includes('@') || (!isAdmin && !studentId.match(/^[A-Za-z0-9]+$/))) {
+                document.getElementById('signupError').textContent = 'Invalid email or student ID.';
+                return;
+            }
+
+            const users = JSON.parse(localStorage.getItem('users') || '[]');
+            if (users.some(user => user.email === email)) {
+                document.getElementById('signupError').textContent = 'Email already registered.';
+                return;
+            }
+
+            users.push({ name, email, password, studentId: isAdmin ? null : studentId, isAdmin });
+            localStorage.setItem('users', JSON.stringify(users));
+            document.getElementById('signupError').textContent = 'Signup successful! Please login.';
+            document.getElementById('signupName').value = '';
+            document.getElementById('signupEmail').value = '';
+            document.getElementById('signupPassword').value = '';
+            document.getElementById('confirmPassword').value = '';
+            document.getElementById('studentId').value = '';
+            document.getElementById('isAdmin').checked = false;
+            toggleStudentId();
+        }
     </script>
 </body>
 </html>

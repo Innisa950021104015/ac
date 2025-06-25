@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div style="display:flex;justify-content:center;align-items:center;">
+            <img class="header" src="log.jpg" alt="tn logo not found" style="margin-right: auto;">
+            <h1>CAREER GUIDANCE FOR SCHOOL STUDENTS</h1>
+            <img class="header" src="tn.jpg" alt="tn logo not found" style="margin-left: auto;">
+        </div>
+    </header>
+    <div class="admin-container">
+        <h2>Admin Dashboard</h2>
+        <p id="welcome"></p>
+        <h3>Registered Students</h3>
+        <table id="studentTable">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Student ID</th>
+                </tr>
+            </thead>
+            <tbody id="studentList"></tbody>
+        </table>
+        <button onclick="logout()">Logout</button>
+        <p id="error" class="error"></p>
+    </div>
+
+    <script>
+        function checkAdminAccess() {
+            const currentUser = JSON.parse(localStorage.getItem('currentUser'));
+            if (!currentUser || !currentUser.isAdmin) {
+                document.getElementById('error').textContent = 'Access denied. Admins only.';
+                document.getElementById('studentTable').style.display = 'none';
+                document.querySelector('button').style.display = 'none';
+                setTimeout(() => { window.location.href = 'index.html'; }, 2000);
+                return false;
+            }
+            document.getElementById('welcome').textContent = `Welcome, ${currentUser.name}!`;
+            return true;
+        }
+
+        function loadStudents() {
+            if (!checkAdminAccess()) return;
+
+            const users = JSON.parse(localStorage.getItem('users') || '[]');
+            const students = users.filter(user => !user.isAdmin);
+            const tbody = document.getElementById('studentList');
+            tbody.innerHTML = '';
+
+            if (students.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="3">No students registered.</td></tr>';
+                return;
+            }
+
+            students.forEach(student => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${student.name}</td>
+                    <td>${student.email}</td>
+                    <td>${student.studentId}</td>
+                `;
+                tbody.appendChild(row);
+            });
+        }
+
+        function logout() {
+            localStorage.removeItem('currentUser');
+            window.location.href = 'index.html';
+        }
+
+        window.onload = loadStudents;
+    </script>
+</body>
+</html>

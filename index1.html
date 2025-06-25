@@ -10,23 +10,60 @@
     <header>
         <div style="display:flex;justify-content:center;align-items:center;">
             <img class="header" src="log.jpg" alt="tn logo not found" style="margin-right: auto;">
-            <h1>CAREER  GUIDANCE FOR  SCHOOL  STUDENTS </h1>
+            <h1>CAREER GUIDANCE FOR SCHOOL STUDENTS</h1>
             <img class="header" src="tn.jpg" alt="tn logo not found" style="margin-left: auto;">
         </div>
     </header>
-
-    <main class="container">
+    <main class="container" id="studentContent">
         <div class="image-section">
             <img src="img.jpg" alt="Online Exam">
         </div>
         <div class="info-section">
             <h2>Your Future Starts Here</h2>
+            <p id="welcome"></p>
             <p>
                 Explore your strengths and passions with our personalized career guidance platform.
                 Take interactive tests, get career guidance, and discover careers tailored to your skills.
             </p>
-            <a href="login.html" class="login-button">Go to Login</a>
+            <a href="login.html" class="login-button" id="loginButton">Go to Login</a>
+            <button id="logoutButton" style="display: none;" onclick="logout()">Logout</button>
+            <p id="error" class="error"></p>
         </div>
     </main>
+
+    <script>
+        function checkUserAccess() {
+            const currentUser = JSON.parse(localStorage.getItem('currentUser'));
+            const loginButton = document.getElementById('loginButton');
+            const logoutButton = document.getElementById('logoutButton');
+            const welcome = document.getElementById('welcome');
+
+            if (!currentUser) {
+                // No user logged in: Show login button
+                loginButton.style.display = 'inline-block';
+                logoutButton.style.display = 'none';
+                welcome.textContent = '';
+                return;
+            }
+
+            if (currentUser.isAdmin) {
+                // Admin logged in: Redirect to admin.html
+                window.location.href = 'admin.html';
+                return;
+            }
+
+            // Student logged in: Show welcome message and logout button
+            welcome.textContent = `Welcome, ${currentUser.name}! (Student ID: ${currentUser.studentId})`;
+            loginButton.style.display = 'none';
+            logoutButton.style.display = 'inline-block';
+        }
+
+        function logout() {
+            localStorage.removeItem('currentUser');
+            window.location.href = 'index.html';
+        }
+
+        window.onload = checkUserAccess;
+    </script>
 </body>
 </html>
